@@ -16,5 +16,3 @@ for i, (l1, l2, l3) in enumerate(zip(list1, list2, list3)):
     print(i, l1, l2, l3)
 
 f.close()
-
-
