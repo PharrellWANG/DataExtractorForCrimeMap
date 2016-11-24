@@ -1,0 +1,1904 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="True" name="HandheldFriendly"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <title>
+   港聞｜最新最快的香港新聞｜香港01
+  </title>
+  <link href="https://cdn.hk01.com/images/ui/favicon.ico" rel="shortcut icon"/>
+  <meta content="LV3BHKGOVoVp2_gjC2Tiug3qxkTUOwRTRbByIule4DY" name="google-site-verification"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <link href="https://cdn.hk01.com/images/ui/bookmark/bookmark_icon_76x76.png" rel="apple-touch-icon"/>
+  <link href="https://cdn.hk01.com/images/ui/bookmark/bookmark_icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="https://cdn.hk01.com/images/ui/bookmark/bookmark_icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://cdn.hk01.com/images/ui/bookmark/bookmark_icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://cdn.hk01.com/images/ui/bookmark/bookmark_icon_192x192.png" rel="apple-touch-icon" sizes="192x192"/>
+  <link href="https://cdn.hk01.com/images/ui/bookmark/bookmark_icon_192x192.png" rel="apple-touch-icon-precomposed" sizes="192x192"/>
+  <!-- android deep link -->
+  <!-- IE < 10 is not supported -->
+  <!--[if lt IE 10 ]>
+            <meta http-equiv="refresh" content="0;URL='http://www.hk01.com/Pages/Browser_Not_Support'" />
+        <![endif]-->
+  <script>
+   function isIE() {
+                var myNav = navigator.userAgent.toLowerCase();
+                return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+            }
+            if (isIE() && isIE() <= 9) {
+                location.replace("http://www.hk01.com/Pages/Browser_Not_Support")
+            }
+  </script>
+  <meta content="港聞｜最新最快的香港新聞｜香港01" name="title"/>
+  <meta content="最新最全面的熱門香港新聞、要聞港聞、頭條新聞及專題報道" name="description"/>
+  <meta content="香港01,hk01,新聞,香港新聞,國際新聞,頭條新聞,港聞" name="keywords"/>
+  <meta content="香港01" name="author"/>
+  <meta content="香港01" name="publisher"/>
+  <meta content="港聞 - 新聞 - 香港01" property="og:title"/>
+  <meta content="最新最全面的熱門香港新聞、要聞港聞、頭條新聞及專題報道" property="og:description"/>
+  <meta content="香港01" property="og:site_name"/>
+  <meta content="//www.hk01.com/media/dummy/hk01_og.png" property="og:image"/>
+  <meta content="https://www.facebook.com/hk01wemedia" property="article:publisher"/>
+  <meta content="https://www.facebook.com/hk01wemedia" property="article:author"/>
+  <meta content="website" property="og:type"/>
+  <meta content="http://www.hk01.com/section/港聞" property="og:url"/>
+  <meta content="1651866545051541" property="fb:app_id"/>
+  <meta content="448747665308662" property="fb:pages"/>
+  <meta content="summary" property="twitter:card"/>
+  <meta content="@hk01wemedia" property="twitter:site"/>
+  <meta content="http://www.hk01.com/section/港聞" property="twitter:url"/>
+  <meta content="最新最全面的熱門香港新聞、要聞港聞、頭條新聞及專題報道" property="twitter:description"/>
+  <meta content="港聞 - 新聞 - 香港01" property="twitter:title"/>
+  <meta content="//www.hk01.com/media/dummy/hk01_og.png" property="twitter:image"/>
+  <link href="https://cdn.hk01.com/assets/stylesheets/reset.css" rel="stylesheet"/>
+  <link href="https://cdn.hk01.com/bower_components/swiper/dist/css/swiper.min.css" rel="stylesheet"/>
+  <link href="https://cdn.hk01.com/bower_components/photoswipe/dist/photoswipe.css" rel="stylesheet"/>
+  <link href="https://cdn.hk01.com/bower_components/photoswipe/dist/default-skin/default-skin.css" rel="stylesheet"/>
+  <link href="https://cdn.hk01.com/assets/stylesheets/common.css" rel="stylesheet"/>
+  <link href="https://cdn.hk01.com/assets/stylesheets/section_index.css" rel="stylesheet"/>
+  <script src="https://cdn.hk01.com/bower_components/jquery/dist/jquery.min.js">
+  </script>
+  <!-- Add fancyBox main JS and CSS files -->
+  <script src="https://cdn.hk01.com/assets/fancybox/jquery.fancybox.pack.js?v=2.1.5" type="text/javascript">
+  </script>
+  <link href="https://cdn.hk01.com/assets/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" rel="stylesheet" type="text/css"/>
+  <script>
+   var APP_CONFIG = {"base_url":"http:\/\/www.hk01.com\/"}
+  </script>
+  <script>
+   var	googletag = googletag || {}; googletag.cmd = googletag.cmd || []; (function() { var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); })();
+  </script>
+  <script>
+   "use strict";
+
+(function(adTags, prefix){
+
+	// adTags.forEach( d => { console.info(`DFP will load: ${d.tag}`) });
+
+	googletag.cmd.push(function() {
+
+
+		adTags.forEach(function(adTag){
+
+			if( 'div-gpt-top-banner' == adTag.container || 'div-gpt-lower-banner' == adTag.container ){
+				var mapping = googletag.sizeMapping()
+						//[Width, Height], [DFP-W, DFP-H]
+					// .addSize([1280, 0], [[970, 90],[728, 90]])
+					.addSize([1280, 0], [970, 90])
+					.addSize([960, 0], [728, 90])
+					.addSize([640, 0], [468, 60])
+					.addSize([0, 0], [320, 50])
+					.build();
+			}else{
+				var mapping = googletag.sizeMapping()
+					.addSize([740, 100], adTag.size)
+					.addSize([0, 0], [300, 250])
+					.build();
+			}
+
+			// googletag.defineSlot(prefix + adTag.tag, adTag.size, adTag.container).addService(googletag.pubads()).setCollapseEmptyDiv(true);;
+			googletag
+				.defineSlot(prefix + adTag.tag, adTag.size, adTag.container)
+				.defineSizeMapping(mapping)
+				.addService(googletag.pubads()).setCollapseEmptyDiv(true);;
+		});
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+
+	document.addEventListener('DOMContentLoaded', function(e){
+		adTags.forEach(function(adTag){
+			document.getElementById(adTag.container) && googletag.cmd.push(function() { googletag.display(adTag.container) });
+		});
+	}, false);
+
+})([{"container":"div-gpt-top-header-1","tag":"HK01_Website_TopHeader1","size":[188,90]},{"container":"div-gpt-top-header-2","tag":"HK01_Website_TopHeader2","size":[[300,98],[300,100]]},{"container":"div-gpt-top-banner","tag":"HK01_NewsCHL_HKNews_top_970x90_or_728x90","size":[[970,90],[728,90]]},{"container":"div-gpt-left-above-1","tag":"HK01_NewsCHL_HKNews_left_above_300x250_1","size":[300,250]},{"container":"div-gpt-left-above-2","tag":"HK01_NewsCHL_HKNews_left_above_300x250_2","size":[300,250]},{"container":"div-gpt-left-middle-3","tag":"HK01_NewsCHL_HKNews_left_middle_300x250_3","size":[300,250]}], '/' + 108346865 + '/');
+  </script>
+  <!-- Google Analytics -->
+  <script>
+   window.ga = window.ga || function () {
+                (ga.q = ga.q || []).push(arguments)
+            };
+            ga.l = +new Date;
+            ga('create', 'UA-70981149-1', 'auto');
+                        ga('send', 'pageview', {});
+  </script>
+  <script async="" src="//www.google-analytics.com/analytics.js">
+  </script>
+  <!-- JSON-LD -->
+  <script type="application/ld+json">
+   {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name" : "香港01",
+            "url": "http://hk01.com",
+            "logo": "http://www.hk01.com/assets/images/hk01_logo_final_04.png",
+            "sameAs" : [
+            "https://www.facebook.com/hk01wemedia/",
+            "https://www.instagram.com/hk01wemedia/",
+            "http://www.youtube.com/c/香港01WeMedia"
+            ]
+            }
+  </script>
+  <!-- Begin comScore Tag -->
+  <script>
+   var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "20542791" });
+		  (function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		  })();
+  </script>
+  <noscript>
+   <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=20542791&amp;cv=2.0&amp;cj=1"/>
+  </noscript>
+  <!-- End comScore Tag -->
+ </head>
+ <body class=" ">
+  <!-- Facebook -->
+  <div id="fb-root">
+  </div>
+  <script>
+   (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/zh_HK/sdk.js#xfbml=1&version=v2.5";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!-- START Facebook Pixel Code -->
+  <script>
+   !function (f, b, e, v, n, t, s) {
+                if (f.fbq)
+                    return;
+                n = f.fbq = function () {
+                    n.callMethod ?
+                            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq)
+                    f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1012624252114388');
+            fbq('track', "PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=1012624252114388&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <!-- END Facebook Pixel Code -->
+  <div class="mask">
+  </div>
+  <header class="channel-news nocontent">
+   <div class="menu__top">
+    <div class="wrapper">
+     <div class="container">
+      <a id="popup_datetime">
+       <div class="weather" style="cursor: default;">
+        <span class="date">
+         2016.11.24  13:59
+        </span>
+        <span class="week">
+         星期四
+        </span>
+        <span class="temp">
+         19°C
+        </span>
+       </div>
+      </a>
+      <div class="container float_right">
+       <a id="popup_search">
+        <div class="search">
+         <span>
+         </span>
+        </div>
+       </a>
+       <a id="popup_member">
+        <div class="member_btn">
+         <span>
+         </span>
+         會員登入
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="menu__top__member menu__top_popup">
+      <div class="menu__top__member_beforelogin">
+       <ul>
+        <li>
+         <a class="btn alreadymember" href="http://www.hk01.com/member/login">
+          登入
+         </a>
+        </li>
+        <li>
+         <a class="btn notyetmember" href="http://www.hk01.com/member/registration">
+          註冊成為會員
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- end of before login -->
+     </div>
+     <div class="menu__top__search menu__top_popup" data-search-form="">
+      <input name="keyword" placeholder="搜尋" type="search"/>
+      <div class="btn">
+       搜尋
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="menu__mid">
+    <div class="wrapper">
+     <a href="http://www.hk01.com/">
+      <div class="float_left" id="logo">
+       <img alt="香港01" src="https://cdn.hk01.com/assets/images/logo.png"/>
+      </div>
+     </a>
+     <div class="menu__mid--current">
+      <a href="http://www.hk01.com/section/港聞">
+       港聞
+      </a>
+     </div>
+     <div class="ads float_right">
+      <div id="div-gpt-top-header-1">
+      </div>
+     </div>
+    </div>
+   </div>
+   <nav class="menu__main">
+    <div class="wrapper">
+     <div class="menu__main__scroll">
+      <ul class="menu__main_container float_left">
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/">
+         主頁
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/新聞">
+         新聞
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/section/01觀點">
+         01觀點
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/blogger/01博評">
+         01博評
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/社區">
+         社區
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/娛樂">
+         娛樂
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/section/國際">
+         國際
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/女生">
+         女生
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/section/好生活">
+         好生活
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/section/體育">
+         體育
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/熱話">
+         熱話
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/科技玩物">
+         科技玩物
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://philosophy.hk01.com">
+         01哲學
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/photostory">
+         01影像
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/01活動">
+         01活動
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://space.hk01.com/">
+         01空間
+        </a>
+       </li>
+       <li class="menu__main--tit">
+        <a href="http://www.hk01.com/channel/會員專區">
+         會員專區
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="btn_more float_right">
+      <div class="menu-toggle-btn">
+       <span>
+       </span>
+       <span>
+       </span>
+       <span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <nav class="menu__main--fix">
+    <div class="menu__main--inner">
+     <div class="wrapper">
+      <div class="menu__main--fix__logo">
+       <a href="http://www.hk01.com/">
+        <img alt="香港01" src="https://cdn.hk01.com/assets/images/logo.png"/>
+       </a>
+      </div>
+      <div class="menu__main--fix--current">
+       <a href="http://www.hk01.com/section/港聞">
+        港聞
+       </a>
+      </div>
+      <div class="menu__main--fix__scroll">
+       <ul class="menu__main--fix_container float_left">
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/">
+          主頁
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/新聞">
+          新聞
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/section/01觀點">
+          01觀點
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/blogger/01博評">
+          01博評
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/社區">
+          社區
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/娛樂">
+          娛樂
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/section/國際">
+          國際
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/女生">
+          女生
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/section/好生活">
+          好生活
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/section/體育">
+          體育
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/熱話">
+          熱話
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/科技玩物">
+          科技玩物
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://philosophy.hk01.com">
+          01哲學
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/photostory">
+          01影像
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/01活動">
+          01活動
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://space.hk01.com/">
+          01空間
+         </a>
+        </li>
+        <li class="menu__main--fix--tit">
+         <a href="http://www.hk01.com/channel/會員專區">
+          會員專區
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="btn_member float_right">
+      </div>
+      <div class="btn_search float_right">
+      </div>
+      <div class="btn_more float_right">
+       <div class="menu-toggle-btn">
+        <span>
+        </span>
+        <span>
+        </span>
+        <span>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <nav class="menu__submenu" id="touch_submenu">
+    <div class="wrapper" id="touch_submenu_wrapper_container" style="top:0; left:0; z-index:999">
+     <div class="touch_submenu touch_submenu_wrapper">
+      <div class="menu__submenu__search" data-search-form="">
+       <input name="keyword" placeholder="搜尋" type="search"/>
+       <div class="btn">
+        搜尋
+       </div>
+      </div>
+     </div>
+     <ul class="menu__submenu--list">
+      <li>
+       <a href="http://www.hk01.com">
+        主頁
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/module/hotnews">
+        熱門文章
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/module/latestnews">
+        最新文章
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/新聞">
+        新聞
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/港聞">
+        港聞
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/兩岸">
+        兩岸
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/經濟">
+        經濟
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/環保">
+        環保
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/罪案">
+        罪案
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/社區">
+        社區
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/娛樂">
+        娛樂
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/電影">
+        電影
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/音樂">
+        音樂
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/韓迷">
+        韓迷
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/國際">
+        國際
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/女生">
+        女生
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/好生活">
+        好生活
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/親子">
+        親子
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/寵物">
+        寵物
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/01教煮">
+        01教煮
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/體育">
+        體育
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/跑步">
+        跑步
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/熱話">
+        熱話
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/科技玩物">
+        科技玩物
+       </a>
+      </li>
+      <li>
+       <a href="http://philosophy.hk01.com/">
+        01哲學
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/01觀點">
+        01觀點
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/blogger/01博評">
+        01博評
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/bloggers">
+        博評作者
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/01偵查">
+        01偵查
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/photostory">
+        01影像
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/tag/9972">
+        01 Video
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/section/01活動">
+        01活動
+       </a>
+      </li>
+      <li>
+       <a href="http://space.hk01.com/">
+        01空間
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/channel/會員專區">
+        會員專區
+       </a>
+      </li>
+      <li>
+       <a href="http://www.hk01.com/issue">
+        01議題
+       </a>
+      </li>
+     </ul>
+     <div class="static_links">
+      <ul>
+       <li>
+        <a href="http://www.hk01.com/Pages/Hotline">
+         01線報
+        </a>
+       </li>
+       <li>
+        <a href="http://www.hk01.com/Pages/PrivacyTerms">
+         私隱條例
+        </a>
+       </li>
+       <li>
+        <a href="http://www.hk01.com/mediakit/index.html">
+         廣告查詢
+        </a>
+       </li>
+       <li>
+        <a href="http://www.hk01.com/Pages/ContactUs">
+         聯絡我們
+        </a>
+       </li>
+       <li>
+        <a href="http://www.hk01.com/Pages/Recruitment">
+         加入我們
+        </a>
+       </li>
+      </ul>
+      <div class="socialmedia_channel">
+       <a href="https://www.facebook.com/hk01wemedia" target="_blank">
+        <img src="https://cdn.hk01.com/assets/images/facebook_channel.png" width="50"/>
+       </a>
+       <a href="http://www.youtube.com/c/香港01WeMedia" target="_blank">
+        <img src="https://cdn.hk01.com/assets/images/youtube_channel.png" width="50"/>
+       </a>
+       <a href="https://www.instagram.com/hk01wemedia" target="_blank">
+        <img src="https://cdn.hk01.com/assets/images/instagram_channel.png" width="50"/>
+       </a>
+      </div>
+     </div>
+     <!-- end of static links -->
+    </div>
+   </nav>
+  </header>
+  <section class="channel channel-news">
+   <div class="page_overlay_arrows">
+   </div>
+   <div class="wrapper channel_topslider">
+    <div class="ads ads_large_ads">
+     <div id="div-gpt-top-banner">
+     </div>
+    </div>
+    <div class="float_left">
+     <nav class="channel_menubar">
+      <ul>
+       <li class="channel_menubar__tit">
+        <h1>
+         新聞
+        </h1>
+       </li>
+       <li class="channel_menubar__menu">
+        <ul class="menu__submenu--list">
+         <li>
+          <a href="http://www.hk01.com/channel/新聞">
+           <h2>
+            全部
+           </h2>
+          </a>
+         </li>
+         <li class="current">
+          <a href="http://www.hk01.com/section/港聞">
+           <h2>
+            港聞
+           </h2>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.hk01.com/section/兩岸">
+           <h2>
+            兩岸
+           </h2>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.hk01.com/section/經濟">
+           <h2>
+            經濟
+           </h2>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.hk01.com/section/環保">
+           <h2>
+            環保
+           </h2>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.hk01.com/section/罪案">
+           <h2>
+            罪案
+           </h2>
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </nav>
+     <nav class="channel_menubar_expand">
+     </nav>
+     <div class="wrapper-col">
+      <div class="slider swiper-container" data-defer-swiper-init="">
+       <div class="swiper-wrapper">
+        <div class="swiper-slide">
+         <div class="slider__item ">
+          <a href="http://www.hk01.com/港聞/56017/%E5%A4%A7%E5%B8%BD%E5%B1%B1%E9%8C%84%E5%BE%9710%E5%BA%A6%E4%BD%8E%E6%BA%AB-%E9%96%8B%E5%BF%83%E8%93%AE%E5%A7%90%E7%B9%BC%E7%BA%8C%E9%96%8B%E6%AA%94-%E5%96%AE%E8%BB%8A%E5%8F%8B%E7%9F%AD%E8%A2%96%E7%99%BB%E5%B3%B0-">
+           <img src="https://www.hk01.com/media/article/56017/thumbnail/c6121b3707887fae03fc8d0f35a99d33.jpg"/>
+          </a>
+          <a class="caption" href="http://www.hk01.com/港聞/56017/%E5%A4%A7%E5%B8%BD%E5%B1%B1%E9%8C%84%E5%BE%9710%E5%BA%A6%E4%BD%8E%E6%BA%AB-%E9%96%8B%E5%BF%83%E8%93%AE%E5%A7%90%E7%B9%BC%E7%BA%8C%E9%96%8B%E6%AA%94-%E5%96%AE%E8%BB%8A%E5%8F%8B%E7%9F%AD%E8%A2%96%E7%99%BB%E5%B3%B0-">
+           <h4 class="cat">
+            <txt>
+             港聞
+            </txt>
+           </h4>
+           <h2 class="title">
+            大帽山錄得10度低溫　開心蓮姐繼續開檔　單車友短袖登峰
+           </h2>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sidebar">
+     <div class="ads ads_300x250">
+      <div id="div-gpt-left-above-1">
+      </div>
+     </div>
+     <div class="ads ads_300x250">
+      <div id="div-gpt-left-above-2">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="wrapper">
+    <div class="float_left">
+     <section class="blog_listing large_img wrapper-col" data-lazyload="true" data-lazyload-api="http://www.hk01.com/api/get_articles/2/{INCREMENT_VALUE}/{EXERPT_LENGTH}" data-lazyload-initialpage="0" data-lazyload-length="90" data-lazyload-template="blog_listing">
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/55887/%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%BB%A8%E6%94%BF%E5%88%86%E5%B7%A5%E8%B5%B0%E5%9B%9E%E9%A0%AD%E8%B7%AF-%E8%83%A1%E5%BF%97%E5%81%89%E7%88%86%E5%86%B7%E9%81%B8%E4%B8%BB%E5%B8%AD-%E7%BE%85%E5%81%A5%E7%86%99%E8%A2%81%E6%B5%B7%E6%96%87%E4%BB%BB%E5%89%AF" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/55887/thumbnail/7bf088ca61a50dcb362e35735c7a4595.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           民主黨黨政分工走回頭路　胡志偉爆冷選主席　羅健熙袁海文任副
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          外界原本預計，在立法會選舉中完成「世代交替」的民主黨，年底可能再下一城，完成領導層的新舊換班；及後在本月初舉行的特別會員大會中，該黨通過《民主黨將逐步邁向「黨政分工」運作模式》議案……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 08:00:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/環保/55944/-%E6%9C%80%E8%86%A0%E7%B4%80%E9%8C%84-%E5%9E%83%E5%9C%BE%E6%A3%84%E7%BD%AE%E9%87%8F%E5%89%B5%E6%96%B0%E9%AB%98-CNN%E7%82%BA%E9%A6%99%E6%B8%AF%E5%86%A0%E5%90%8D-%E5%9E%83%E5%9C%BE%E6%B5%B7-" target="_blank">
+        <div class="blog_listing__item__img video">
+         <img src="https://www.hk01.com/media/article/55944/thumbnail/1146f83e370b074695d95dfe27b8242f.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           環保
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           【最膠紀錄】垃圾棄置量創新高　CNN為香港冠名「垃圾海」
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          CNN的新聞短片題為「Hong Kong's trashed oceans」(香港的垃圾海)，指香港有逾千公里的海岸線，是中華白海豚的家，海上卻佈滿膠袋、膠樽以及其他垃圾，……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 07:30:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/55975/%E9%A3%9B%E6%A9%9F%E7%B6%AD%E4%BF%AE%E5%93%A1%E5%81%87%E6%97%A5%E8%96%AA%E9%87%91-%E5%80%92%E8%9D%95-3-5%E5%80%8B%E5%B7%A5%E6%99%82-%E6%A2%81%E8%80%80%E5%BF%A0%E8%B3%AA%E7%96%91%E9%81%95%E6%B3%95%E4%BE%8B%E7%B2%BE%E7%A5%9E" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/55975/thumbnail/bf62bc8fafa6a88ad6a20aa44d1a16a9.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           飛機維修員假日薪金「倒蝕」3.5個工時？　梁耀忠質疑違法例精神
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          中飛轉換新制，由過往每星期上班5天，再放假2天，更換成8日更表，每上班5日，每天11.5小時，就放假3天，惟每天放假以8小時計算，而不是11.5小時。
+
+立法會議員梁耀忠指出，……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 07:00:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/55989/-%E4%B8%AD%E9%A3%9B-%E5%BC%B7%E6%8E%A8%E6%96%B0%E6%9B%B4%E8%A1%A8-%E9%A3%9B%E6%A9%9F%E7%B6%AD%E4%BF%AE%E5%93%A1%E5%B7%A5%E8%AE%8A%E6%97%A5%E5%81%9A12%E5%B0%8F%E6%99%82%E6%81%90%E8%AE%8A%E7%9B%B8%E6%89%A3%E8%A3%9C%E6%B0%B4" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/55989/thumbnail/27a9d021eaf794640b6db539a9025c85.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           「中飛」強推新更表　飛機維修員工變日做12小時恐變相扣補水
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          過往日做逾八小時即獲額外補水
+
+為香港國際機場提供飛機維修、機艙清潔等服務的「中飛」，下月將推行新更表，令員工擔心會變相「加辛、減薪」。John（化名）今年四十多歲，已在「中飛……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 07:00:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56036/%E7%AB%8B%E6%B3%95%E6%9C%83%E9%80%9A%E9%81%8E%E7%84%A1%E7%B4%84%E6%9D%9F%E5%8A%9B%E5%8B%95%E8%AD%B0-%E4%BF%83%E6%94%BF%E5%BA%9C%E5%88%B6%E8%A1%A1%E9%A0%98%E5%B1%95%E7%8D%A8%E5%A4%A7" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56036/thumbnail/109baa1b882c7850e68f6c2853e2ce28.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           立法會通過無約束力動議　促政府制衡領展獨大
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          新民黨容海恩提出「力促市場健康競爭，制衡領展獨大局面」動議，由民主黨尹兆堅提出修正，要求政府調查領展有否違反《競爭條例》，並於各區合適的地點設臨時墟時，為市民提供更多選舉，獲立法會……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 13:19:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56025/16%E6%AD%B2%E5%A2%AE%E6%96%83%E7%94%B7%E7%94%9F%E5%AE%B6%E4%BA%BA%E5%82%B7%E5%BF%83%E8%AA%8D%E5%B1%8D-%E5%98%86-%E8%B6%8A%E5%8F%BB%E5%98%85%E4%BA%BA%E5%AE%B9%E6%98%93%E7%95%80%E5%A3%93%E5%8A%9B%E8%87%AA%E5%B7%B1-" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56025/thumbnail/b26c7ca9ae89e97583fb700305e9a688.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           16歲墮斃男生家人傷心認屍　嘆「越叻嘅人容易畀壓力自己」
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          今早9時許，一行約十名親友抵達西環域多利公眾殮房辦理認屍手續，眾人逗留大約1小時後離開，神情哀傷。
+
+死者舅父透露，昨日他們知悉侄兒死訊後趕赴香港，協助辦理後事。他指，侄子數年……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 13:14:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56042/%E6%87%B2%E6%95%99%E7%BD%B2%E6%8B%9B%E8%81%98%E6%87%B2%E6%95%99%E4%B8%BB%E4%BB%BB-%E8%87%B3%E5%B0%91350%E4%BA%BA-%E8%B5%B7%E8%96%AA%E9%BB%9E%E9%81%8E1-8%E8%90%AC" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56042/thumbnail/5970b4838502e40c4c519b6a75e0838a.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           懲教署招聘懲教主任、至少350人　起薪點過1.8萬
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          二級懲教助理截止申請日期為12月11日；懲教主任申請日期由12月12日至12月25日。投考人士須通過體能測驗、寫作測試、小組面試，以及最後面試。獲取錄的懲教主任和二級懲教助理學員須……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 13:09:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56062/%E8%91%B5%E6%B6%8C%E7%A2%BC%E9%A0%AD%E9%A9%9A%E7%8F%BE%E8%A3%9D%E7%94%B2%E8%BB%8A-%E7%96%91%E8%B5%B0%E7%A7%81%E8%BB%8D%E7%81%AB-%E6%B5%B7%E9%97%9C%E6%9A%AB%E6%9C%AA%E5%9B%9E%E6%87%89" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56062/thumbnail/fbfa41cdf5450acb8d1666474b612f69.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           葵涌碼頭驚現裝甲車　疑走私軍火　海關暫未回應
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          報道指今早10時，葵涌貨櫃碼頭出現9架裝甲車，全部被藍色或灰色的布包裹，放置在行內俗稱為「牛柳架」的紅色鐵架上，四周被大量疊高的貨櫃包圍，需要從高空拍攝才能見到，現場最少有兩名海關……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 13:09:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56057/%E6%9B%BE%E4%BF%8A%E8%8F%AF-%E6%9C%AA%E4%BE%86%E7%92%B0%E7%90%83%E7%B6%93%E6%BF%9F%E5%BD%A2%E5%8B%A2%E4%B8%8D%E6%98%8E%E6%9C%97" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56057/thumbnail/2f8fbe6d5f313f9c97ad3eb0945b5184.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           曾俊華：未來環球經濟形勢不明朗
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          曾俊華今早出席中央電視台舉辦的財經論壇時表示，未來環球經濟仍受不少不確定因素影響。他指，美國總統選舉結果已令金融市場有一定波動，而展望來年，英國啟動脫歐程序過程漫長、意大利下月亦舉……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 13:04:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56053/%E7%AB%8B%E6%B3%95%E6%9C%83%E5%B8%B3%E5%A7%94%E6%9C%83%E5%B0%B1%E5%85%AC%E5%B1%8B%E7%B6%AD%E4%BF%AE%E5%8F%8A%E6%95%99%E8%B3%87%E6%9C%83%E5%85%AC%E5%B8%91%E4%BD%BF%E7%94%A8-%E5%B1%95%E9%96%8B%E8%81%86%E8%A8%8A%E8%AA%BF%E6%9F%A5" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56053/thumbnail/cf1d0047fe57d69f7062ea5d354c4382.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           立法會帳委會就公屋維修及教資會公帑使用　展開聆訊調查
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          房委會在10年前為公共屋邨推出全方位維修計劃，但審計署發現，在第二個周期的維修計劃中，有8萬多個單位未能進內勘察，其中近三成單位更是在第一周期已未能進入，而屋邨辦事處亦未有就此作出……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 12:50:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56046/%E7%99%BD%E9%9F%9E%E5%85%AD%E6%92%B0%E6%96%87%E5%8F%8D%E6%93%8A-%E6%96%A5%E6%9E%97%E5%8D%93%E5%BB%B7%E8%A8%80%E8%AB%96%E8%AA%A4%E5%B0%8E-%E6%90%8D%E5%BB%89%E7%BD%B2%E5%85%AC%E4%BF%A1%E5%8A%9B" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56046/thumbnail/7651ac75ad093a66a5f28dbe9a90226f.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           白韞六撰文反擊　斥林卓廷言論誤導　損廉署公信力
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          白韞六在信中解釋，決定終止李寶蘭署任執行處首長的決定，「完全不牽涉任何廉署調查的案件，亦不是因為受到任何壓力」。2015年決定安排李寶蘭署任，是為「方便行政」及觀察她的工作表現，而……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 12:42:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56038/%E8%AD%9A%E6%96%87%E8%B1%AA%E8%B8%A2%E7%88%86%E6%96%B0%E7%A9%BA%E7%AE%A1%E4%B8%89%E5%A4%A7%E5%95%8F%E9%A1%8C-%E8%AD%A6%E5%91%8A%E6%B0%91%E8%88%AA%E8%99%9511%E6%9C%8824%E6%97%A5%E4%B8%8B%E5%8D%884%E6%99%82%E5%89%8D%E4%BA%A4%E4%BB%A3" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56038/thumbnail/29a2908e826c4f26e9aed9f85c230d05.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           譚文豪踢爆新空管三大問題　警告民航處11月24日下午4時前交代
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          新空管系統遲了近4年終於本月14日正式全面啟用，舊空管系統會在全面啟用後首10天作「Warm Standby」（活性備用），由今起就會轉為「Cold Standby」（備用狀態），……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 12:23:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/01博評-政經社/55977/%E8%AA%B0%E6%9C%80%E6%87%89%E8%A9%B2%E5%8F%8D%E5%B0%8D%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BB%8D-" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/55977/thumbnail/5b52a9ba169bf5302efca1c7d20c3628.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           01博評-政經社
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           誰最應該反對青少年軍？
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          我希望能及時提醒香港童軍總會和女童軍總會等童軍團體，歷史上獨裁政權成立忠於自己的制服團隊，目的就是要取締宣揚普世價值的童軍。陳淑莊「行李門」主角之一特首夫人擔任總司令的香港青少年軍……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 12:02:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56033/%E6%B0%91%E9%96%93%E9%9B%BB%E5%8F%B0%E8%A2%AB%E6%8E%A7%E6%94%BF%E7%B8%BD%E5%A4%96%E9%9D%9E%E6%B3%95%E5%BB%A3%E6%92%AD-%E7%8D%B2%E6%89%B9%E4%B8%8A%E8%A8%B4%E8%87%B3%E7%B5%82%E9%99%A2" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56033/thumbnail/7a29ee05f57ac6bfd58dad43a49fff28.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           民間電台被控政總外非法廣播　獲批上訴至終院
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          民間電台被控在2012年10月至11月，多次在政府總部外非法廣播，違反《電訊條例》。台長曾健成及成員潘達強早前被裁定「藉未領牌的電訊設施發送信息」等罪成立，分別罰款2100 元及4……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 11:55:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="lazyload_container float_left">
+      </div>
+     </section>
+    </div>
+    <!-- Sidebar -->
+    <div class="sidebar">
+     <div class="sidebar__hotnews">
+      <a href="http://www.hk01.com/module/hotnews">
+       <div class="border_tit sidebar__hotnews__tit">
+        熱門新聞排行榜
+       </div>
+      </a>
+      <div class="tab_hotnews">
+       <div class="tab_hotnews__item" id="news">
+        新聞
+       </div>
+       <div class="tab_hotnews__item" id="blog">
+        博評
+       </div>
+       <div class="tab_hotnews__item" id="all">
+        01
+       </div>
+      </div>
+      <ul class="hotnews__container hotnews--news">
+       <li class="">
+        <b>
+         1
+        </b>
+        <a href="http://www.hk01.com/熱話/55683/-%E5%81%9A-%E5%85%B5-%E5%8D%81%E5%B9%B4-%E5%A5%B3%E7%A5%9E-%E4%BB%96%E4%B8%8D%E6%98%AF%E7%94%B7%E6%9C%8B%E5%8F%8B-%E6%AF%94%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%9B%B4%E8%A6%AA%E6%9B%B4%E9%87%8D%E8%A6%81">
+         <span>
+          <h3>
+           【做「兵」十年】女神：他不是男朋友　比男朋友更親更重要
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55683/thumbnail/ff14570d205881d932ebb002a9d685a3.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         2
+        </b>
+        <a href="http://www.hk01.com/熱話/55705/%E6%92%9E%E6%AD%A3%E7%99%BD%E4%BA%8B%E9%83%BD%E8%A6%81%E7%95%80%E4%BA%BA%E6%83%85-%E6%9C%8B%E5%8F%8B%E7%A5%9E%E5%9B%9E-%E4%B8%8B%E6%AC%A1%E4%BD%A0%E5%86%8D%E7%B5%90%E5%A9%9A%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0-">
+         <span>
+          <h3>
+           撞正白事都要畀人情？　朋友神回 ： 下次你再結婚我一定到 ！
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55705/thumbnail/d30fe786e34ed64de1fea68412de5403.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         3
+        </b>
+        <a href="http://www.hk01.com/環保/55771/%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E9%81%AD%E9%A3%9F%E7%92%B0%E5%9A%B4%E6%89%93%E7%84%A1%E7%89%8C%E5%81%9A%E5%A0%82%E9%A3%9F-%E5%85%AC%E5%92%8C%E8%8D%B3%E5%93%81%E8%BD%89%E7%94%A8%E5%8D%B3%E6%A3%84%E8%86%A0%E7%A2%97%E9%81%BF%E9%A2%A8%E9%A0%AD-">
+         <span>
+          <h3>
+           百年老店遭食環嚴打無牌做堂食　公和荳品轉用即棄膠碗避風頭
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55771/thumbnail/9a7302891bb0f0334843318ae9e217c6.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         4
+        </b>
+        <a href="http://www.hk01.com/港聞/55868/%E5%8A%89%E5%B0%8F%E9%BA%97%E5%8D%8A%E6%9C%88%E5%85%A7%E4%BA%94%E5%BA%A6-%E7%94%A9%E8%BD%86-%E4%BB%8A%E6%AC%A1%E8%BC%AA%E5%88%B0%E9%81%B8%E5%B0%8F%E7%B5%84%E4%B8%BB%E5%B8%AD%E8%93%8B%E9%8C%AF%E5%8D%B0">
+         <span>
+          <h3>
+           劉小麗半月內五度「甩轆」　今次輪到選小組主席蓋錯印
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55868/thumbnail/f4af44acf275fefd1c46150ec546f415.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         5
+        </b>
+        <a href="http://www.hk01.com/港聞/55637/-%E5%A4%A7%E5%8A%89%E8%81%B2%E6%98%8E-%E5%8A%89%E9%91%BE%E9%9B%84%E7%94%98%E6%AF%94%E7%B5%90%E7%82%BA%E5%A4%AB%E5%A6%BB-%E4%B8%80%E7%B4%99%E5%A9%9A%E6%9B%B8%E5%B0%8D%E8%B2%A1%E7%94%A2%E5%88%86%E9%85%8D%E6%9C%89%E4%BD%95%E5%BD%B1%E9%9F%BF-">
+         <span>
+          <h3>
+           【大劉聲明】劉鑾雄甘比結為夫妻　一紙婚書對財產分配有何影響？
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55637/thumbnail/0c30cc2425918cb04290cacc840b2b60.jpg"/>
+        </a>
+       </li>
+       <li class="video">
+        <b>
+         6
+        </b>
+        <a href="http://www.hk01.com/港聞/55746/%E5%8A%89%E5%B0%8F%E9%BA%97-%E6%89%BE%E6%95%B8-%E6%8D%90%E9%80%BE%E5%8D%8A%E4%BA%BA%E5%B7%A5-%E5%86%80%E5%A3%93%E5%8A%9B%E4%B8%AD%E5%A0%85%E5%AE%9A%E6%8F%90%E5%8D%87%E8%AD%B0%E6%94%BF%E6%B0%B4%E5%B9%B3">
+         <span>
+          <h3>
+           劉小麗「找數」捐逾半人工　冀壓力中堅定提升議政水平
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55746/thumbnail/6ea21b00fba3f566023d831868ada337.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         7
+        </b>
+        <a href="http://www.hk01.com/熱話/55639/%E5%A4%96%E7%95%8C%E8%B3%AA%E7%96%91%E8%A1%80%E5%BA%AB%E4%B8%8D%E5%81%9C%E5%8F%AB%E5%91%8A%E6%80%A5-%E7%B4%85%E5%8D%81%E5%AD%97%E6%9C%83%E9%80%90%E9%BB%9E%E5%9B%9E">
+         <span>
+          <h3>
+           外界質疑血庫不停叫告急　紅十字會逐點回
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55639/thumbnail/21b8b24681c401bc9209c1ff18b30215.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
+        </b>
+        <a href="http://www.hk01.com/港聞/55517/%E7%94%B7%E6%95%99%E5%B8%AB%E8%88%87%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E7%94%9F%E6%80%A7%E4%BA%A4%E5%88%A4%E5%9B%9A-%E6%95%A2%E8%A8%80%E6%A0%A1%E9%95%B7-%E5%AE%88%E4%B8%8D%E4%BD%8F%E6%A8%99%E6%BA%96%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%87%89%E6%95%99%E6%9B%B8">
+         <span>
+          <h3>
+           男教師與未成年女生性交判囚　敢言校長：守不住標準的人不應教書
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55517/thumbnail/1e4e52b14c393b2a7970a41725749542.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         9
+        </b>
+        <a href="http://www.hk01.com/熱話/55912/-%E6%8F%9A%E5%A8%81%E6%B5%B7%E5%A4%96-90%E5%BE%8C%E6%86%91iPhone-6s%E5%BD%B1%E6%97%A5%E8%90%BD%E5%B0%91%E5%A5%B3-%E5%A5%AA-%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86-%E4%BD%B3%E4%BD%9C%E8%B3%9E">
+         <span>
+          <h3>
+           【揚威海外】90後憑iPhone 6s影日落少女　奪《國家地理》佳作賞
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55912/thumbnail/606f5380dba11cb76697e404a04660ce.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         10
+        </b>
+        <a href="http://www.hk01.com/港聞/55741/-%E7%89%B9%E9%A6%96%E9%81%B8%E6%88%B0-%E6%8B%86%E5%B1%80-%E9%81%B8%E5%A7%94%E7%B5%90%E6%9E%9C%E6%88%90%E9%97%9C%E9%8D%B5-%E6%9B%BE%E4%BF%8A%E8%8F%AF%E8%91%89%E5%8A%8912%E6%9C%88%E9%83%A8%E7%BD%B2%E9%9C%B2%E7%8E%84%E6%A9%9F">
+         <span>
+          <h3>
+           【特首選戰．拆局】選委結果成關鍵　曾俊華葉劉12月部署露玄機
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55741/thumbnail/54b81aaabc969a43d61ae82e20b28b43.jpg"/>
+        </a>
+       </li>
+      </ul>
+      <ul class="hotnews__container hotnews--blog">
+       <li class="video">
+        <b>
+         1
+        </b>
+        <a href="http://www.hk01.com/01博評-Sports/55644/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E6%94%B6%E7%9B%8A-%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B3%BD">
+         <span>
+          <h3>
+           看不見的收益：日本全國高中足球大賽
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55644/thumbnail/eeac51ad077eaca4b77bfb0e2638a8db.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         2
+        </b>
+        <a href="http://www.hk01.com/01博評-Sports/55713/-%E6%AD%A6%E8%A1%9301-%E7%9A%84%E5%A3%AB%E5%93%A5%E5%93%A5%E5%A4%A7%E6%88%B0%E5%98%85%E5%B9%BE%E5%80%8B%E6%8A%80%E8%A1%93%E4%BD%8D">
+         <span>
+          <h3>
+           【武術01】的士哥哥大戰嘅幾個技術位
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55713/thumbnail/1519874010315ecdd2c1c67a2b90d336.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         3
+        </b>
+        <a href="http://www.hk01.com/01博評-生活/55508/-%E4%BE%86%E7%A8%BF-HR%E4%BA%BA%E5%9B%9E%E6%87%89%E8%A9%A9%E5%AF%A7-%E8%A6%8B%E4%B8%80%E6%AC%A1%E5%B7%A5%E5%B0%B1%E7%9F%A5%E4%BC%8F%E5%94%94%E4%BC%8F-%E5%B0%8F%E5%BF%83%E5%86%87%E5%92%97%E4%BB%BD%E5%A5%BD%E5%B7%A5">
+         <span>
+          <h3>
+           【來稿．HR人回應詩寧】見一次工就知伏唔伏？小心冇咗份好工
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55508/thumbnail/954f34782eda165ac99d80cdfa2c756e.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         4
+        </b>
+        <a href="http://www.hk01.com/01博評-香港地/55506/-Page-One%E5%81%9C%E6%A5%AD-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9B%B8%E5%BA%97-%E6%9B%B4%E6%98%AF%E6%80%9D%E8%80%83">
+         <span>
+          <h3>
+           【Page One停業】消失的不只是書店，更是思考
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55506/thumbnail/dbc30bafb0fda52f2daeee8c23cbb56c.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         5
+        </b>
+        <a href="http://www.hk01.com/01博評-親子丼/55201/-%E9%BA%BB%E7%94%A9%E6%95%99%E4%BB%94%E5%AD%B8-%E4%B8%80%E5%A0%B4%E6%9C%97%E8%AA%A6%E6%AF%94%E8%B3%BD-%E8%AE%93%E6%88%91%E7%9C%8B%E5%88%B0%E9%86%9C%E6%85%8B%E7%9B%A1%E7%8F%BE%E7%9A%84%E7%88%B6%E6%AF%8D">
+         <span>
+          <h3>
+           【麻甩教仔學】一場朗誦比賽，讓我看到醜態盡現的父母
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55201/thumbnail/b35f0897d89c98f2b678d5f8a6e0a49b.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         6
+        </b>
+        <a href="http://www.hk01.com/01博評-生活/54904/-%E5%BB%A2%E9%9D%92%E6%B1%82%E8%81%B7%E6%94%BB%E7%95%A5-%E5%A6%82%E4%BD%95-%E8%AB%8B%E5%81%87%E8%A6%8B%E5%B7%A5-%E4%B8%8D%E8%A2%AB%E8%80%81%E7%B4%B0%E7%99%BC%E7%8F%BE-">
+         <span>
+          <h3>
+           【廢青求職攻略】如何「請假見工」不被老細發現？
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/54904/thumbnail/592271405f4887255c2cba99f99cecdc.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         7
+        </b>
+        <a href="http://www.hk01.com/01博評-政經社/55479/%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E4%B8%80%E7%9B%A4%E9%A6%99%E6%B8%AF%E8%9D%95-%E7%BE%8E%E5%9C%8B%E8%B3%BA%E7%9A%84%E5%B8%B3">
+         <span>
+          <h3>
+           迪士尼：一盤香港蝕、美國賺的帳
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55479/thumbnail/83a1d3dded890402d05b951895502cae.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
+        </b>
+        <a href="http://www.hk01.com/01博評-藝．文化/55462/%E5%AF%A6%E9%AB%94%E6%9B%B8%E5%BA%97%E7%87%9F%E9%81%8B%E9%9B%A3-%E7%82%BA%E4%BD%95%E5%81%8F%E5%81%8F%E6%98%AFPage-One-">
+         <span>
+          <h3>
+           實體書店營運難，為何偏偏是Page One？
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55462/thumbnail/721b273c049f29f8e07f7cf8891b8bac.jpg"/>
+        </a>
+       </li>
+       <li class="video">
+        <b>
+         9
+        </b>
+        <a href="http://www.hk01.com/01博評-香港地/55601/%E9%A6%99%E6%B8%AF%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E5%8F%B0%E7%81%A3%E8%A7%80%E5%85%89%E5%B1%80-%E6%88%90%E9%BE%8D%E8%88%87%E9%95%B7%E6%BE%A4%E6%AD%A3%E7%BE%8E">
+         <span>
+          <h3>
+           香港旅發局與台灣觀光局　成龍與長澤正美
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55601/thumbnail/7a895b85fed2ee367dae86512a48174b.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         10
+        </b>
+        <a href="http://www.hk01.com/01博評-藝．文化/54781/-%E5%BD%B1%E8%A9%95-%E5%88%97%E8%BB%8A%E4%B8%8A%E7%9A%84%E5%A5%B3%E5%AD%A9-%E5%8D%83%E7%A5%88%E5%94%94%E5%A5%BD%E5%B8%B6%E5%A5%B3%E4%BA%BA%E5%8E%BB%E7%9D%87%E5%91%A2%E5%A5%97%E5%82%91%E4%BD%9C">
+         <span>
+          <h3>
+           【影評．列車上的女孩】千祈唔好帶女人去睇呢套傑作
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/54781/thumbnail/2c0b93facab2b662c65e72dabfff1fd4.jpg"/>
+        </a>
+       </li>
+      </ul>
+      <ul class="hotnews__container hotnews--all">
+       <li class="">
+        <b>
+         1
+        </b>
+        <a href="http://www.hk01.com/熱話/55683/-%E5%81%9A-%E5%85%B5-%E5%8D%81%E5%B9%B4-%E5%A5%B3%E7%A5%9E-%E4%BB%96%E4%B8%8D%E6%98%AF%E7%94%B7%E6%9C%8B%E5%8F%8B-%E6%AF%94%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%9B%B4%E8%A6%AA%E6%9B%B4%E9%87%8D%E8%A6%81">
+         <span>
+          <h3>
+           【做「兵」十年】女神：他不是男朋友　比男朋友更親更重要
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55683/thumbnail/ff14570d205881d932ebb002a9d685a3.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         2
+        </b>
+        <a href="http://www.hk01.com/熱話/55705/%E6%92%9E%E6%AD%A3%E7%99%BD%E4%BA%8B%E9%83%BD%E8%A6%81%E7%95%80%E4%BA%BA%E6%83%85-%E6%9C%8B%E5%8F%8B%E7%A5%9E%E5%9B%9E-%E4%B8%8B%E6%AC%A1%E4%BD%A0%E5%86%8D%E7%B5%90%E5%A9%9A%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0-">
+         <span>
+          <h3>
+           撞正白事都要畀人情？　朋友神回 ： 下次你再結婚我一定到 ！
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55705/thumbnail/d30fe786e34ed64de1fea68412de5403.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         3
+        </b>
+        <a href="http://www.hk01.com/科技玩物/55823/-%E7%99%BE%E8%AE%8A%E6%80%AADitto-%E7%AA%81%E7%8F%BE%E8%BA%ABPokemon-GO-%E8%B8%A2%E9%A4%A8-%E6%99%82%E5%8F%AF%E5%8C%96%E8%BA%AB%E5%B0%8D%E6%89%8B">
+         <span>
+          <h3>
+           「百變怪Ditto」突現身Pokemon GO！　「踢館」時可化身對手
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55823/thumbnail/88a3664d4f30e0dfebc960a4b9b82812.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         4
+        </b>
+        <a href="http://www.hk01.com/娛樂/55970/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E9%BE%94%E5%98%89%E6%AC%A3%E9%81%87%E5%B0%8F%E4%B8%89%E7%88%86%E5%96%8A-%E8%A6%AA%E8%BA%AB%E7%B6%93%E6%AD%B7%E7%89%B9%E5%88%A5%E6%8A%95%E5%85%A5-%E5%85%A8%E9%83%A8%E7%9C%9F%E7%9C%BC%E6%B7%9A">
+         <span>
+          <h3>
+           【幕後玩家】龔嘉欣遇小三爆喊　親身經歷特別投入：全部真眼淚
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55970/thumbnail/595fdd290caf4ce420c4e2fd2048e14e.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         5
+        </b>
+        <a href="http://www.hk01.com/環保/55771/%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E9%81%AD%E9%A3%9F%E7%92%B0%E5%9A%B4%E6%89%93%E7%84%A1%E7%89%8C%E5%81%9A%E5%A0%82%E9%A3%9F-%E5%85%AC%E5%92%8C%E8%8D%B3%E5%93%81%E8%BD%89%E7%94%A8%E5%8D%B3%E6%A3%84%E8%86%A0%E7%A2%97%E9%81%BF%E9%A2%A8%E9%A0%AD-">
+         <span>
+          <h3>
+           百年老店遭食環嚴打無牌做堂食　公和荳品轉用即棄膠碗避風頭
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55771/thumbnail/9a7302891bb0f0334843318ae9e217c6.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         6
+        </b>
+        <a href="http://www.hk01.com/娛樂/55904/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E9%BB%83%E5%AE%97%E6%BE%A4%E7%82%BA%E9%8C%A2%E5%A5%B8%E5%88%B0%E7%9B%A1-30%E5%B9%BE%E6%AD%B2%E4%BA%BA%E4%BB%B2%E5%81%9A%E5%81%B6%E5%83%8F%E6%B4%BE%E5%92%A9-">
+         <span>
+          <h3>
+           【幕後玩家】黃宗澤為錢奸到盡：30幾歲人仲做偶像派咩？
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55904/thumbnail/a813a4753c9454d520828c148075f098.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         7
+        </b>
+        <a href="http://www.hk01.com/娛樂/55935/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E5%8A%87%E9%80%8F-%E9%BB%83%E5%AE%97%E6%BE%A4%E5%88%A9%E6%85%BE%E8%96%B0%E5%BF%83%E5%AE%B3%E6%AD%BB%E9%99%B8%E6%B0%B8-%E6%90%B6%E4%BA%BA%E5%A6%BB%E9%BB%83%E7%BF%A0%E5%A6%82%E6%AD%A3%E4%BA%BA%E6%B8%A3">
+         <span>
+          <h3>
+           【幕後玩家．劇透】黃宗澤利慾薰心害死陸永　搶人妻黃翠如正人渣
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55935/thumbnail/4da101993bb59d8f1b728867f0691ba8.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
+        </b>
+        <a href="http://www.hk01.com/港聞/55868/%E5%8A%89%E5%B0%8F%E9%BA%97%E5%8D%8A%E6%9C%88%E5%85%A7%E4%BA%94%E5%BA%A6-%E7%94%A9%E8%BD%86-%E4%BB%8A%E6%AC%A1%E8%BC%AA%E5%88%B0%E9%81%B8%E5%B0%8F%E7%B5%84%E4%B8%BB%E5%B8%AD%E8%93%8B%E9%8C%AF%E5%8D%B0">
+         <span>
+          <h3>
+           劉小麗半月內五度「甩轆」　今次輪到選小組主席蓋錯印
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55868/thumbnail/f4af44acf275fefd1c46150ec546f415.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         9
+        </b>
+        <a href="http://www.hk01.com/娛樂/55948/-%E8%87%B4%E5%91%BD%E5%BE%A9%E6%B4%BB-%E5%8A%87%E9%80%8F-%E9%83%AD%E6%99%89%E5%AE%89%E8%A2%AB%E4%BA%BA%E9%99%B7%E5%AE%B3-%E8%90%AC%E7%B6%BA%E9%9B%AF%E4%BF%82%E6%83%A1%E6%AF%92%E4%BA%BA%E5%A6%BB-">
+         <span>
+          <h3>
+           【致命復活．劇透】郭晉安被人陷害　萬綺雯係惡毒人妻？
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55948/thumbnail/ca88a9e86dee1a6d942b3a1fe18bd019.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         10
+        </b>
+        <a href="http://www.hk01.com/01博評-Sports/55713/-%E6%AD%A6%E8%A1%9301-%E7%9A%84%E5%A3%AB%E5%93%A5%E5%93%A5%E5%A4%A7%E6%88%B0%E5%98%85%E5%B9%BE%E5%80%8B%E6%8A%80%E8%A1%93%E4%BD%8D">
+         <span>
+          <h3>
+           【武術01】的士哥哥大戰嘅幾個技術位
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55713/thumbnail/1519874010315ecdd2c1c67a2b90d336.jpg"/>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="ads ads_300x250">
+      <div id="div-gpt-left-middle-3">
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer class="nocontent">
+   <div class="footer__upper">
+    <div class="footer__upper--header">
+     <div class="wrapper">
+      <div class="footer__upper__tag">
+       <span>
+        熱門
+       </span>
+       <a href="http://www.hk01.com/tag/9890">
+        甘比
+       </a>
+       <a href="http://www.hk01.com/tag/1645">
+        台慶
+       </a>
+       <a href="http://www.hk01.com/tag/13567">
+        宣誓風波/釋法
+       </a>
+       <a href="http://www.hk01.com/tag/1723">
+        無綫電視
+       </a>
+       <a href="http://www.hk01.com/tag/13027">
+        人大釋法
+       </a>
+       <a href="http://www.hk01.com/tag/1463">
+        劉鑾雄
+       </a>
+       <a href="http://www.hk01.com/tag/1246">
+        美國大選
+       </a>
+       <a href="http://www.hk01.com/tag/1323">
+        吳若希
+       </a>
+       <a href="http://www.hk01.com/tag/13150">
+        2016選舉委員會選舉
+       </a>
+       <a href="http://www.hk01.com/tag/365">
+        消委會
+       </a>
+       <a href="http://www.hk01.com/tag/11398">
+        消委會測試調查
+       </a>
+       <a href="http://www.hk01.com/tag/13512">
+        神舟十一號
+       </a>
+       <a href="http://www.hk01.com/tag/9461">
+        TVB台慶
+       </a>
+       <a href="http://www.hk01.com/tag/11328">
+        歐鎧淳
+       </a>
+       <a href="http://www.hk01.com/tag/13868">
+        釋法衝突
+       </a>
+       <a href="http://www.hk01.com/tag/2268">
+        林丹
+       </a>
+       <a href="http://www.hk01.com/tag/134">
+        梁頌恆
+       </a>
+       <a href="http://www.hk01.com/tag/1270">
+        特朗普
+       </a>
+       <a href="http://www.hk01.com/tag/11302">
+        游蕙禎
+       </a>
+       <a href="http://www.hk01.com/tag/1265">
+        希拉里
+       </a>
+       <a href="http://www.hk01.com/tag/30">
+        曾俊華
+       </a>
+       <a href="http://www.hk01.com/tag/3730">
+        2017特首選舉
+       </a>
+       <a href="http://www.hk01.com/tag/4059">
+        特首選舉
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer__upper_spacer">
+   </div>
+   <div class="footer__lower" style="height: 0.5px;">
+    <div class="wrapper">
+     <div class="footer__lower__soical_icon float_left">
+      <a href="https://www.facebook.com/hk01wemedia" target="_blank">
+       <div class="footer__lower__soical_icon__item icon_fb">
+       </div>
+      </a>
+      <a href="https://www.instagram.com/hk01wemedia" target="_blank">
+       <div class="footer__lower__soical_icon__item icon_instagram">
+       </div>
+      </a>
+      <a href="http://www.youtube.com/c/香港01WeMedia" target="_blank">
+       <div class="footer__lower__soical_icon__item icon_youtube">
+       </div>
+      </a>
+     </div>
+     <div class="footer__lower__link float_right">
+      <div class="footer__lower__link__container">
+       <span class="footer__lower__link-link">
+        <a href="http://www.hk01.com/Pages/Hotline">
+         01線報
+        </a>
+       </span>
+       <span class="footer__lower__link-link">
+        <a href="http://www.hk01.com/Pages/PrivacyTerms">
+         私隱條例
+        </a>
+       </span>
+       <span class="footer__lower__link-link">
+        <a href="http://www.hk01.com/mediakit/index.html" target="_blank">
+         廣告查詢
+        </a>
+       </span>
+       <span class="footer__lower__link-link">
+        <a href="http://www.hk01.com/Pages/ContactUs">
+         聯絡我們
+        </a>
+       </span>
+       <span class="footer__lower__link-link">
+        <a href="http://www.hk01.com/Pages/Recruitment">
+         加入我們
+        </a>
+       </span>
+      </div>
+      <div class="footer__lower__link-txt">
+       香港零一媒體有限公司版權所有 © 2016
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <!-- Root element of PhotoSwipe. Must have class pswp. -->
+  <div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+   <!-- Background of PhotoSwipe.
+         It's a separate element as animating opacity is faster than rgba(). -->
+   <div class="pswp__bg">
+   </div>
+   <!-- Slides wrapper with overflow:hidden. -->
+   <div class="pswp__scroll-wrap">
+    <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+    <div class="pswp__container">
+     <div class="pswp__item">
+     </div>
+     <div class="pswp__item">
+     </div>
+     <div class="pswp__item">
+     </div>
+    </div>
+    <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+    <div class="pswp__ui pswp__ui--hidden">
+     <div class="pswp__top-bar">
+      <!--  Controls are self-explanatory. Order can be changed. -->
+      <div class="pswp__counter">
+      </div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)">
+      </button>
+      <button class="pswp__button pswp__button--share" title="Share">
+      </button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen">
+      </button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out">
+      </button>
+      <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+      <!-- element will get class pswp__preloader--active when preloader is running -->
+      <div class="pswp__preloader">
+       <div class="pswp__preloader__icn">
+        <div class="pswp__preloader__cut">
+         <div class="pswp__preloader__donut">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip">
+      </div>
+     </div>
+     <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+     </button>
+     <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+     </button>
+     <div class="pswp__caption">
+      <div class="pswp__caption__center">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="https://www.google.com/recaptcha/api.js?hl=zh-TW">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/jquery.event.move/js/jquery.event.move.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/jquery.event.swipe/js/jquery.event.swipe.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/moment/min/moment.min.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/moment/locale/zh-tw.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/swiper/dist/js/swiper.min.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/photoswipe/dist/photoswipe.min.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/photoswipe/dist/photoswipe-ui-default.min.js">
+  </script>
+  <script src="https://cdn.hk01.com/bower_components/vticker/jquery.vticker.js">
+  </script>
+  <script src="https://cdn.hk01.com/assets/scripts/cookie.js">
+  </script>
+  <script src="https://cdn.hk01.com/assets/scripts/localstorage.js">
+  </script>
+  <script src="https://cdn.hk01.com/assets/scripts/common.js">
+  </script>
+  <script src="https://cdn.hk01.com/assets/scripts/search.js">
+  </script>
+  <script src="https://cdn.hk01.com/assets/scripts/subscribe.js">
+  </script>
+  <script src="https://cdn.hk01.com/assets/scripts/section_index.js">
+  </script>
+  <!-- START Parse.ly Include: Standard -->
+  <div id="parsely-root" style="display: none">
+   <span data-parsely-site="hk01.com" id="parsely-cfg">
+   </span>
+  </div>
+  <script>
+   (function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+  </script>
+  <!-- END Parse.ly Include: Standard -->
+ </body>
+</html>
+
