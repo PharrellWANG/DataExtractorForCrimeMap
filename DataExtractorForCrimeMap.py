@@ -19,7 +19,7 @@ if s == t:  # string matching
 else:
     print("s != t")  # if s, t don't match at this round, then check the next crime name in the list.
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+# ==
 # //---->substring containing:
 # ================
 # s = "This be a string"
