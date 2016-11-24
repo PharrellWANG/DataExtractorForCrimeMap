@@ -210,13 +210,13 @@
       <a id="popup_datetime">
        <div class="weather" style="cursor: default;">
         <span class="date">
-         2016.11.24  20:15
+         2016.11.24  22:19
         </span>
         <span class="week">
          星期四
         </span>
         <span class="temp">
-         19°C
+         18°C
         </span>
        </div>
       </a>
@@ -803,17 +803,17 @@
        <div class="swiper-wrapper">
         <div class="swiper-slide">
          <div class="slider__item ">
-          <a href="http://www.hk01.com/01博評-政經社/56139/%E9%A6%99%E6%B8%AF%E6%88%AA%E7%8D%B2%E6%98%9F%E6%B4%B2%E8%A3%9D%E7%94%B2%E8%BB%8A-%E5%8F%B0%E6%96%B0%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E5%8F%AF%E5%8F%97%E5%BD%B1%E9%9F%BF-">
-           <img src="https://www.hk01.com/media/article/56139/thumbnail/dac11cd2712b4b3e7e70b526a102cd59.jpg"/>
+          <a href="http://www.hk01.com/港聞/56187/-%E9%BA%A5%E8%8A%B1%E8%87%A3%E5%A2%9F%E5%B8%82-%E5%8D%80%E6%9C%83%E4%B8%80%E7%A5%A8%E4%B9%8B%E5%B7%AE%E5%90%A6%E6%B1%BA-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B1%85%E6%B0%91%E9%9B%A3%E5%BF%8D%E5%99%AA%E9%9F%B3%E5%95%8F%E9%A1%8C">
+           <img src="https://www.hk01.com/media/article/56187/thumbnail/04b9f206abb6383e6b03fc76cb3b6d41.jpg"/>
           </a>
-          <a class="caption" href="http://www.hk01.com/01博評-政經社/56139/%E9%A6%99%E6%B8%AF%E6%88%AA%E7%8D%B2%E6%98%9F%E6%B4%B2%E8%A3%9D%E7%94%B2%E8%BB%8A-%E5%8F%B0%E6%96%B0%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E5%8F%AF%E5%8F%97%E5%BD%B1%E9%9F%BF-">
+          <a class="caption" href="http://www.hk01.com/港聞/56187/-%E9%BA%A5%E8%8A%B1%E8%87%A3%E5%A2%9F%E5%B8%82-%E5%8D%80%E6%9C%83%E4%B8%80%E7%A5%A8%E4%B9%8B%E5%B7%AE%E5%90%A6%E6%B1%BA-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B1%85%E6%B0%91%E9%9B%A3%E5%BF%8D%E5%99%AA%E9%9F%B3%E5%95%8F%E9%A1%8C">
            <h4 class="cat">
             <txt>
-             01博評-政經社
+             港聞
             </txt>
            </h4>
            <h2 class="title">
-            香港截獲星洲裝甲車　台新軍事合作可受影響？
+            【麥花臣墟市】區會一票之差否決　區議員指居民難忍噪音問題
            </h2>
           </a>
          </div>
@@ -837,7 +837,37 @@
     <div class="float_left">
      <section class="blog_listing large_img wrapper-col" data-lazyload="true" data-lazyload-api="http://www.hk01.com/api/get_articles/2/{INCREMENT_VALUE}/{EXERPT_LENGTH}" data-lazyload-initialpage="0" data-lazyload-length="90" data-lazyload-template="blog_listing">
       <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56125/-%E6%9C%89%E7%89%87-%E6%B0%91%E5%BB%BA%E8%81%AF%E5%89%8D%E9%BB%A8%E5%93%A1%E8%83%A1%E4%B8%96%E5%85%A8%E9%81%B8%E7%89%B9%E9%A6%96-%E5%80%A1%E5%85%A8%E6%B0%91%E6%B4%BE%E4%B8%80%E8%90%AC%E5%85%83-%E5%B0%8F%E7%AB%A5%E9%83%BD%E6%9C%89%E4%BB%BD-" target="_blank">
+       <a href="http://www.hk01.com/01博評-政經社/56139/%E9%A6%99%E6%B8%AF%E6%88%AA%E7%8D%B2%E6%98%9F%E6%B4%B2%E8%A3%9D%E7%94%B2%E8%BB%8A-%E5%8F%B0%E6%96%B0%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E5%8F%AF%E5%8F%97%E5%BD%B1%E9%9F%BF-" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56139/thumbnail/4c7205e68b5403ccfe889ce431280aae.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           01博評-政經社
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           香港截獲星洲裝甲車　台新軍事合作可受影響？
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          本周四（11月24日）上午，香港執法部門收到消息，查看葵涌貨櫃碼頭一民用貨船，發現多架軍用車輛，引起各界的好奇。筆者且以公開照片及報道為據，作扼要說明，以說明相關事件的 What、……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 20:10:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56125/-%E6%9C%89%E7%89%87-%E6%B0%91%E5%BB%BA%E8%81%AF%E5%89%8D%E9%BB%A8%E5%93%A1%E8%83%A1%E4%B8%96%E5%85%A8%E9%81%B8%E7%89%B9%E9%A6%96-%E5%80%A1%E5%85%A8%E6%B0%91%E6%B4%BE%E4%B8%80%E8%90%AC%E5%85%83%E5%B0%8F%E7%AB%A5%E9%83%BD%E6%9C%89%E4%BB%BD-" target="_blank">
         <div class="blog_listing__item__img video">
          <img src="https://www.hk01.com/media/article/56125/thumbnail/6e20d79f0cd2b1623ad2e29fbdfbf514.jpg"/>
          <div class="editor_pick">
@@ -852,7 +882,7 @@
          </div>
          <div class="blog_listing__item__content__tit">
           <h3>
-           (有片)民建聯前黨員胡世全選特首　倡全民派一萬元　小童都有份
+           （有片）民建聯前黨員胡世全選特首　倡全民派一萬元小童都有份
           </h3>
          </div>
          <div class="blog_listing__item__content__caption">
@@ -929,12 +959,36 @@
        </a>
       </div>
       <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56142/%E8%A1%8C%E7%AE%A1%E6%9C%83%E6%B1%BA%E5%AE%9A%E5%90%91%E6%A2%81%E9%A0%8C%E6%81%86%E6%B8%B8%E8%95%99%E7%A6%8E%E8%BF%BD%E8%A8%8E%E5%85%A8%E6%95%B8%E8%96%AA%E6%B4%A5-%E6%AF%8F%E4%BA%BA%E9%A0%88-%E5%9B%9E%E6%B0%B4-93%E8%90%AC" target="_blank">
+       <a href="http://www.hk01.com/罪案/56132/%E5%9B%9E%E6%AD%B8%E5%BE%8C%E9%A6%96%E4%BD%8D%E9%9D%9E%E8%8F%AF%E8%A3%94%E6%95%91%E8%AD%B7%E5%93%A1-%E7%9B%BC%E6%86%91%E7%89%B9%E5%88%A5%E8%83%8C%E6%99%AF-%E7%82%BA%E5%90%8C%E8%83%9E%E6%95%91%E6%80%A5%E6%89%B6%E5%8D%B1" target="_blank">
         <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56142/thumbnail/3b49bb21f3e8cc3ea7509152dd84138d.jpg"/>
-         <div class="editor_pick">
-          精選
+         <img src="https://www.hk01.com/media/article/56132/thumbnail/be1def9bffb55a927b0b9993152f6b25.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           罪案
+          </tag>
          </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           回歸後首位非華裔救護員　盼憑特別背景　為同胞救急扶危
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          28歲的馮永樂，是回歸以來，首名及暫時唯一一名非華裔救護員，現駐守馬鞍山救護站。不論名字或廣東話口音，他都予人「本土」感覺，全因他是混血兒，爸爸是巴基斯坦裔，媽媽是港人，且自幼在香……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 21:59:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56163/%E7%90%86%E5%A4%A7%E6%A0%A1%E9%95%B7%E5%94%90%E5%81%89%E7%AB%A0%E6%96%99%E6%B5%B7%E5%A4%96%E5%AD%B8%E7%94%9F%E6%8C%81%E7%BA%8C%E5%A2%9E%E5%8A%A0-%E5%B0%87%E9%96%8B%E8%BE%A6%E7%B6%B2%E4%B8%8A%E8%AA%B2%E7%A8%8B%E5%90%B8%E5%9C%8B%E9%9A%9B%E7%94%9F" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56163/thumbnail/71142242b06651f395988d4b453588c6.jpg"/>
         </div>
         <div class="blog_listing__item__content">
          <div class="blog_listing__item__content__tag">
@@ -944,15 +998,123 @@
          </div>
          <div class="blog_listing__item__content__tit">
           <h3>
-           行管會決定向梁頌恆游蕙禎追討全數薪津　每人須「回水」93萬
+           理大校長唐偉章料海外學生持續增加　將開辦網上課程吸國際生
           </h3>
          </div>
          <div class="blog_listing__item__content__caption">
-          梁君彥指，今次是根據人大釋法及參考法庭案例後作出決定。他指青年新政二人是拒絕宣誓，故不能行使相關職務和享受任何議員福利。梁稱，會上有委員對應該由哪天起計算薪金有不同意見，但最後仍決……
+          審計報告揭示8間資助大學的內地生，竟佔非本地生比例的76%，狠批取錄非本地生政策，未能做到國際化。理工大學校長唐偉章今日（24日）介紹理大80周年傳媒茶聚時，承認校方過去的非本地生……
          </div>
          <div class="blog_listing__item__content__time">
           <span class="clock">
-           2016-11-24 18:31:00
+           2016-11-24 21:52:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56144/%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E9%90%B5%E7%94%B2%E5%A5%87%E4%BF%A0-%E6%98%8E%E5%B9%B41%E6%9C%88%E9%96%8B%E5%B9%95-%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%B9%ABIron-Man%E5%90%B8%E5%AE%A2" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56144/thumbnail/ceca06c031a4073924b0c50a0e1aae39.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           迪士尼「鐵甲奇俠」明年1月開幕　郭富城幫Iron Man吸客
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          香港迪士尼樂園面對入場人次下滑及上海樂園競爭，借首個漫威主題遊樂設施加強宣傳，邀請「四大天王」之一的郭富城，宣傳即將開幕的「鐵甲奇俠飛行之旅 」。郭天王早前與鐵甲奇俠拍攝二人攝暢遊……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 21:43:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56180/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%AA%A2450%E8%90%AC%E5%85%83%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E6%8B%98%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E6%97%85%E5%AE%A2" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56180/thumbnail/0aa1dc34885c4edd0cdd486b67272aee.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           海關機場檢450萬元可卡因      拘巴西抵港旅客
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          駐守機場的海關人員昨天（23日）在一名旅客的寄艙行李夾層內檢獲市值450萬元可卡因毒品。被捕男旅客68歲，報稱退休人士，他已被海關落案控以一項販運危險藥物罪名，將於明日提控於荃灣裁……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 21:26:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56169/%E8%8D%83%E7%81%A3%E5%B0%8F%E5%B7%B4%E7%AB%99%E5%A4%A9%E9%99%8D%E9%8B%81%E7%AA%97-%E7%86%B1%E5%BF%83%E8%A1%97%E5%9D%8A%E6%8E%83%E8%B5%B0%E6%BB%BF%E5%9C%B0%E7%8E%BB%E7%92%83%E7%A2%8E" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56169/thumbnail/c08136abe3b15b39da6b5e7727b1d2ff.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           荃灣小巴站天降鋁窗　熱心街坊掃走滿地玻璃碎
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          下午5時許，一扇鋁窗突然從天而降，擊中荃灣海壩街140號對開馬路位置，該處為小巴站頭，沒有擊中人算不幸中大幸。警方接報到場將鋁窗撿走調查，有附近街坊將剩餘玻璃碎掃走。鋁窗順帶擊毀一……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 20:35:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56155/-%E4%B8%AD%E9%96%93%E8%B6%85%E4%BA%BA-%E5%86%8D%E7%8D%BB%E6%96%B0%E7%8C%B7-%E9%BB%83%E6%88%90%E6%99%BA%E8%AE%8A%E8%BA%AB%E5%89%8D%E7%B7%9A%E8%A8%98%E8%80%85-%E6%8E%A1%E8%A8%AA%E8%83%A1%E4%B8%96%E5%85%A8%E9%81%B8%E7%89%B9%E9%A6%96" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56155/thumbnail/7f755823e57abb69314dcfa12bfcc656.jpg"/>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           「中間超人」再獻新猷　黃成智變身前線記者　採訪胡世全選特首
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          前民建聯黨員胡世全宣布加入特首戰，雖然「風頭」不及另一特首參選人胡國興，但仍吸引不少記者到場採訪。記者會於一家酒樓廳房舉行，較為擠擁，記者與胡世全的家人和支持者同坐。現場未見有知名……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 20:29:00
           </span>
          </div>
         </div>
@@ -1063,168 +1225,6 @@
          <div class="blog_listing__item__content__time">
           <span class="clock">
            2016-11-24 19:25:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56141/-%E9%81%B8%E5%A7%94%E6%88%B0-%E8%B7%9D%E6%8A%95%E7%A5%A8%E6%97%A5%E4%B8%8D%E8%B6%B3%E5%8D%8A%E6%9C%88-%E9%81%B8%E7%AE%A1%E6%9C%83%E7%B6%B2%E9%A0%81%E4%BB%8D%E6%9C%AA%E8%A6%8B%E5%80%99%E9%81%B8%E4%BA%BA%E7%B0%A1%E4%BB%8B" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56141/thumbnail/4c605c2ad3911f90e158cab32710829a.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           港聞
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           【選委戰】距投票日不足半月　選管會網頁仍未見候選人簡介
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          是屆選委選舉接獲1,539份有效提名，撇除401名自動當選選委和當然選委，以及60名不用選舉的宗教界選委，其中25個界別分組和小組，需於12月11日舉行投票，涉及1,239名候選人……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 19:25:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56122/%E4%B9%9D%E5%B7%B4%E9%BE%8D%E9%81%8B%E6%90%AD%E8%BB%8A%E6%8F%9B%E7%A9%8D%E5%88%86%E6%8A%BD%E7%8D%8E%E5%90%B8%E5%AE%A2%E9%99%90%E5%88%B6%E5%A4%9A-%E8%BF%94%E5%B7%A5%E6%94%BE%E5%B7%A5%E7%B9%81%E5%BF%99%E6%99%82%E6%AE%B5%E7%84%A1%E4%BB%BD" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56122/thumbnail/dde1ccb8caabec79b41af0dc4529f2d2.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           港聞
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           九巴龍運搭車換積分抽獎吸客限制多　返工放工繁忙時段無份
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          九巴在網頁公布「九巴龍運大抽獎」計劃詳情，活動在12月1日至31日期間進行；年滿18歲的乘客，使用八達通乘搭九巴或龍運巴士路線，即可參加。不過活動時間並不包括平日早上及傍晚繁忙時段……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 19:01:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56103/%E5%A4%A9%E8%B3%A6%E6%B5%B7%E7%81%A3%E8%B3%A3%E6%A8%93%E5%BB%A3%E5%91%8A%E8%AA%A4%E5%B0%8E-%E7%99%BC%E5%B1%95%E5%95%86%E9%81%AD%E7%BD%B020%E8%90%AC%E5%85%83-%E6%B3%95%E5%AE%98-%E4%B8%8D%E8%83%BD%E7%B8%B1%E5%AE%B9" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56103/thumbnail/50f40ce5f4a597052249d8c3bb25867b.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           港聞
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           天賦海灣賣樓廣告誤導　發展商遭罰20萬元　法官：不能縱容
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          大埔白石角豪宅樓盤「海鑽‧天賦海灣」項目的賣方公司，因在四份報章刊登廣告，聲稱首批買家可以折實價入場，其後遭一手住宅物業銷售監管局票控。發展商今日在觀塘法院承認四項罪名，遭罰款20……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 18:36:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56143/%E8%A0%B1%E6%83%91%E8%B3%A3%E4%B8%AD%E8%97%A5%E6%9D%90-%E9%8C%A2%E8%AE%8A%E4%B8%A1%E8%B2%B4%E5%8D%81%E5%80%8D%E5%91%83%E9%81%8A%E5%AE%A2-%E8%97%A5%E6%88%BF%E5%BA%97%E5%93%A1%E8%A2%AB%E6%8D%95" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56143/thumbnail/2d3a95e4d531e18302d60585d17da5cc.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           港聞
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           蠱惑賣中藥材　錢變両貴十倍呃遊客　藥房店員被捕
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          錢變両呃客招數再現！銅鑼灣駱克道一藥房涉以錢變両招數，在銷售中藥材時欺騙遊客，令事主多付比實際價格貴十倍的價錢，海關今日以涉嫌違反商品說明條例中的應用商品虛假說明拘捕男店員。海關日……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 18:30:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/環保/56119/%E6%B8%AF%E7%87%88%E5%8A%A0%E7%A2%BC%E8%B3%87%E5%8A%A9%E8%88%8A%E4%BD%8F%E5%AE%85-%E5%8D%87%E5%91%A2-%E6%85%B3%E9%9B%BB-%E6%AF%8F%E9%A0%85%E5%B7%A5%E7%A8%8B%E6%9C%80%E5%A4%9A50%E8%90%AC" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56119/thumbnail/d4675fd84ba5b6671849f65eec2b2958.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           環保
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           港燈加碼資助舊住宅「升呢」慳電　每項工程最多50萬
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          環保署數據顯示，建築物用電量佔全港用電量的九成，因此推廣綠色建築、更新舊的用電設備著手，能有效減少用電提高能源效益。2014年港燈推出「智『惜』用電基金」，資助住宅樓宇進行工程「升……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 18:26:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/罪案/56107/-%E6%BC%8F%E5%A0%B1%E8%BB%8D%E7%81%AB-%E6%B0%B4%E9%99%B8%E5%85%A9%E7%94%A8%E5%85%BC%E5%8F%8D%E5%9D%A6%E5%85%8B-AV-81%E8%A3%9D%E7%94%B2%E8%BB%8A%E7%82%BA%E6%98%9F%E6%B4%B2%E9%99%B8%E8%BB%8D%E4%B8%BB%E5%8A%9B" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56107/thumbnail/be2860795a2cf04ae8e63bcc0137f360.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           罪案
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           【漏報軍火？】水陸兩用兼反坦克　AV-81裝甲車為星洲陸軍主力
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          AV-81裝甲車由新加坡科技動力公司與愛爾蘭泰摩尼科技投資公司合作研發，車身由高強度鋼板焊接而成，全車能抵擋7.62mm機槍掃射，車頭則可擋12.7mm機槍的子彈，全車同時防地雷及……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 18:07:00
           </span>
          </div>
         </div>
