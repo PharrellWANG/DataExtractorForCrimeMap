@@ -233,10 +233,10 @@
       <a id="popup_datetime">
        <div class="weather" style="cursor: default;">
         <span class="date">
-         2016.11.24  22:27
+         2016.11.25  01:12
         </span>
         <span class="week">
-         星期四
+         星期五
         </span>
         <span class="temp">
          18°C
@@ -1427,6 +1427,19 @@
         <b>
          2
         </b>
+        <a href="http://www.hk01.com/01博評-政經社/55838/%E9%96%8B%E9%A6%99%E6%AA%B3%E6%85%B6%E7%A5%9DA-F%E6%92%A4%E5%87%BA%E9%A6%99%E6%B8%AF">
+         <span>
+          <h3>
+           開香檳慶祝A&amp;F撤出香港
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55838/thumbnail/e36ee3196d886641e2e1e759ce3c7267.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         3
+        </b>
         <a href="http://www.hk01.com/01博評-Sports/55713/-%E6%AD%A6%E8%A1%9301-%E7%9A%84%E5%A3%AB%E5%93%A5%E5%93%A5%E5%A4%A7%E6%88%B0%E5%98%85%E5%B9%BE%E5%80%8B%E6%8A%80%E8%A1%93%E4%BD%8D">
          <span>
           <h3>
@@ -1436,9 +1449,22 @@
          <img src="https://www.hk01.com/media/article/55713/thumbnail/5e5f5065c9d5e03e13ffd981365bce15.jpg"/>
         </a>
        </li>
+       <li class="video">
+        <b>
+         4
+        </b>
+        <a href="http://www.hk01.com/01博評-香港地/55601/%E9%A6%99%E6%B8%AF%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E5%8F%B0%E7%81%A3%E8%A7%80%E5%85%89%E5%B1%80-%E6%88%90%E9%BE%8D%E8%88%87%E9%95%B7%E6%BE%A4%E6%AD%A3%E7%BE%8E">
+         <span>
+          <h3>
+           香港旅發局與台灣觀光局　成龍與長澤正美
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55601/thumbnail/61580a448a4978d1ede340424f8ac67d.jpg"/>
+        </a>
+       </li>
        <li class="">
         <b>
-         3
+         5
         </b>
         <a href="http://www.hk01.com/01博評-生活/55508/-%E4%BE%86%E7%A8%BF-HR%E4%BA%BA%E5%9B%9E%E6%87%89%E8%A9%A9%E5%AF%A7-%E8%A6%8B%E4%B8%80%E6%AC%A1%E5%B7%A5%E5%B0%B1%E7%9F%A5%E4%BC%8F%E5%94%94%E4%BC%8F-%E5%B0%8F%E5%BF%83%E5%86%87%E5%92%97%E4%BB%BD%E5%A5%BD%E5%B7%A5">
          <span>
@@ -1451,7 +1477,33 @@
        </li>
        <li class="">
         <b>
-         4
+         6
+        </b>
+        <a href="http://www.hk01.com/01博評-藝．文化/55552/-%E5%BD%B1%E8%A9%95-%E6%80%AA%E7%8D%B8%E8%88%87%E7%89%A0%E5%80%91%E7%9A%84%E7%94%A2%E5%9C%B0-%E6%96%B0%E9%AE%AE%E6%84%9F%E8%B6%B3%E6%84%9F%E6%83%85%E5%88%86%E5%A4%A0-%E9%80%9A%E6%AE%BA-">
+         <span>
+          <h3>
+           【影評．怪獸與牠們的產地】新鮮感足感情分夠　通殺！
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55552/thumbnail/23aa44796be9ddad5d062f4838cb104a.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         7
+        </b>
+        <a href="http://www.hk01.com/01博評-政經社/56011/-%E8%BD%89%E8%BC%89-%E5%8F%B0%E7%81%A3%E7%9A%84%E6%95%85%E4%BA%8B-%E6%88%91%E7%9A%84%E5%90%8C%E6%80%A7%E6%88%80%E7%88%B8%E7%88%B8-">
+         <span>
+          <h3>
+           【轉載．台灣的故事】《我的同性戀爸爸》
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/56011/thumbnail/c797bde72302de2b50b2e6c840c04783.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
         </b>
         <a href="http://www.hk01.com/01博評-香港地/55506/-Page-One%E5%81%9C%E6%A5%AD-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9B%B8%E5%BA%97-%E6%9B%B4%E6%98%AF%E6%80%9D%E8%80%83">
          <span>
@@ -1460,58 +1512,6 @@
           </h3>
          </span>
          <img src="https://www.hk01.com/media/article/55506/thumbnail/24e335cfc40bf572f4d1504ebf61163b.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         5
-        </b>
-        <a href="http://www.hk01.com/01博評-親子丼/55201/-%E9%BA%BB%E7%94%A9%E6%95%99%E4%BB%94%E5%AD%B8-%E4%B8%80%E5%A0%B4%E6%9C%97%E8%AA%A6%E6%AF%94%E8%B3%BD-%E8%AE%93%E6%88%91%E7%9C%8B%E5%88%B0%E9%86%9C%E6%85%8B%E7%9B%A1%E7%8F%BE%E7%9A%84%E7%88%B6%E6%AF%8D">
-         <span>
-          <h3>
-           【麻甩教仔學】一場朗誦比賽，讓我看到醜態盡現的父母
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55201/thumbnail/8d83ccfa2b560363026d7fbd698a1bdd.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         6
-        </b>
-        <a href="http://www.hk01.com/01博評-生活/54904/-%E5%BB%A2%E9%9D%92%E6%B1%82%E8%81%B7%E6%94%BB%E7%95%A5-%E5%A6%82%E4%BD%95-%E8%AB%8B%E5%81%87%E8%A6%8B%E5%B7%A5-%E4%B8%8D%E8%A2%AB%E8%80%81%E7%B4%B0%E7%99%BC%E7%8F%BE-">
-         <span>
-          <h3>
-           【廢青求職攻略】如何「請假見工」不被老細發現？
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/54904/thumbnail/931abd92d3bc0f27490cb0fd56eb5332.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         7
-        </b>
-        <a href="http://www.hk01.com/01博評-政經社/55479/%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E4%B8%80%E7%9B%A4%E9%A6%99%E6%B8%AF%E8%9D%95-%E7%BE%8E%E5%9C%8B%E8%B3%BA%E7%9A%84%E5%B8%B3">
-         <span>
-          <h3>
-           迪士尼：一盤香港蝕、美國賺的帳
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55479/thumbnail/16afd68bb6023917c90585ee044c4191.jpg"/>
-        </a>
-       </li>
-       <li class="video">
-        <b>
-         8
-        </b>
-        <a href="http://www.hk01.com/01博評-香港地/55601/%E9%A6%99%E6%B8%AF%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E5%8F%B0%E7%81%A3%E8%A7%80%E5%85%89%E5%B1%80-%E6%88%90%E9%BE%8D%E8%88%87%E9%95%B7%E6%BE%A4%E6%AD%A3%E7%BE%8E">
-         <span>
-          <h3>
-           香港旅發局與台灣觀光局　成龍與長澤正美
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55601/thumbnail/61580a448a4978d1ede340424f8ac67d.jpg"/>
         </a>
        </li>
        <li class="">
@@ -1531,13 +1531,13 @@
         <b>
          10
         </b>
-        <a href="http://www.hk01.com/01博評-藝．文化/55462/%E5%AF%A6%E9%AB%94%E6%9B%B8%E5%BA%97%E7%87%9F%E9%81%8B%E9%9B%A3-%E7%82%BA%E4%BD%95%E5%81%8F%E5%81%8F%E6%98%AFPage-One-">
+        <a href="http://www.hk01.com/01博評-親子丼/55201/-%E9%BA%BB%E7%94%A9%E6%95%99%E4%BB%94%E5%AD%B8-%E4%B8%80%E5%A0%B4%E6%9C%97%E8%AA%A6%E6%AF%94%E8%B3%BD-%E8%AE%93%E6%88%91%E7%9C%8B%E5%88%B0%E9%86%9C%E6%85%8B%E7%9B%A1%E7%8F%BE%E7%9A%84%E7%88%B6%E6%AF%8D">
          <span>
           <h3>
-           實體書店營運難，為何偏偏是Page One？
+           【麻甩教仔學】一場朗誦比賽，讓我看到醜態盡現的父母
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55462/thumbnail/db34e13562cad602ad1aa25c720ae36e.jpg"/>
+         <img src="https://www.hk01.com/media/article/55201/thumbnail/8d83ccfa2b560363026d7fbd698a1bdd.jpg"/>
         </a>
        </li>
       </ul>

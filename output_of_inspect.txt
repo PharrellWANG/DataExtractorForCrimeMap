@@ -210,10 +210,10 @@
       <a id="popup_datetime">
        <div class="weather" style="cursor: default;">
         <span class="date">
-         2016.11.24  22:19
+         2016.11.25  01:12
         </span>
         <span class="week">
-         星期四
+         星期五
         </span>
         <span class="temp">
          18°C
@@ -802,18 +802,18 @@
       <div class="slider swiper-container" data-defer-swiper-init="">
        <div class="swiper-wrapper">
         <div class="swiper-slide">
-         <div class="slider__item ">
-          <a href="http://www.hk01.com/港聞/56187/-%E9%BA%A5%E8%8A%B1%E8%87%A3%E5%A2%9F%E5%B8%82-%E5%8D%80%E6%9C%83%E4%B8%80%E7%A5%A8%E4%B9%8B%E5%B7%AE%E5%90%A6%E6%B1%BA-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B1%85%E6%B0%91%E9%9B%A3%E5%BF%8D%E5%99%AA%E9%9F%B3%E5%95%8F%E9%A1%8C">
-           <img src="https://www.hk01.com/media/article/56187/thumbnail/04b9f206abb6383e6b03fc76cb3b6d41.jpg"/>
+         <div class="slider__item video">
+          <a href="http://www.hk01.com/港聞/56195/-%E6%9C%89%E7%89%87-%E4%BF%84%E7%B1%8D%E7%94%B7%E6%89%93%E5%8A%AB%E6%89%BE%E6%8F%9B%E5%BA%97-%E5%9C%96%E9%A8%8E%E5%8A%AB%E7%9A%84%E5%A3%AB-%E6%A9%9F%E5%A0%B4%E5%85%AD%E7%89%B9%E8%AD%A6%E6%93%8E%E8%A1%9D%E9%8B%92%E6%A7%8D%E5%88%B6%E6%9C%8D">
+           <img src="https://www.hk01.com/media/article/56195/thumbnail/5f4e4ae1bfc8d474efde0975b9ce7a5a.jpg"/>
           </a>
-          <a class="caption" href="http://www.hk01.com/港聞/56187/-%E9%BA%A5%E8%8A%B1%E8%87%A3%E5%A2%9F%E5%B8%82-%E5%8D%80%E6%9C%83%E4%B8%80%E7%A5%A8%E4%B9%8B%E5%B7%AE%E5%90%A6%E6%B1%BA-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B1%85%E6%B0%91%E9%9B%A3%E5%BF%8D%E5%99%AA%E9%9F%B3%E5%95%8F%E9%A1%8C">
+          <a class="caption" href="http://www.hk01.com/港聞/56195/-%E6%9C%89%E7%89%87-%E4%BF%84%E7%B1%8D%E7%94%B7%E6%89%93%E5%8A%AB%E6%89%BE%E6%8F%9B%E5%BA%97-%E5%9C%96%E9%A8%8E%E5%8A%AB%E7%9A%84%E5%A3%AB-%E6%A9%9F%E5%A0%B4%E5%85%AD%E7%89%B9%E8%AD%A6%E6%93%8E%E8%A1%9D%E9%8B%92%E6%A7%8D%E5%88%B6%E6%9C%8D">
            <h4 class="cat">
             <txt>
              港聞
             </txt>
            </h4>
            <h2 class="title">
-            【麥花臣墟市】區會一票之差否決　區議員指居民難忍噪音問題
+            【有片】俄籍男打劫找換店　圖騎劫的士　機場六特警擎衝鋒槍制服
            </h2>
           </a>
          </div>
@@ -836,6 +836,66 @@
    <div class="wrapper">
     <div class="float_left">
      <section class="blog_listing large_img wrapper-col" data-lazyload="true" data-lazyload-api="http://www.hk01.com/api/get_articles/2/{INCREMENT_VALUE}/{EXERPT_LENGTH}" data-lazyload-initialpage="0" data-lazyload-length="90" data-lazyload-template="blog_listing">
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/罪案/56172/-%E6%BC%8F%E5%A0%B1%E8%BB%8D%E7%81%AB-%E5%9B%9E%E6%AD%B8%E5%BE%8C%E6%9C%80%E5%B0%914%E5%BA%A6%E6%88%AA%E7%8D%B2%E8%BB%8D%E7%81%AB-%E4%BA%8B%E4%BB%B6%E6%96%99%E9%9C%80%E5%A4%96%E4%BA%A4%E9%83%A8%E8%99%95%E7%90%86" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56172/thumbnail/3e9c06efa26a05f3580a8283b7c31cc6.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           罪案
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           【漏報軍火？】回歸後最少4度截獲軍火　事件料需外交部處理
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          據過往資料，回歸後首宗軍火案發生在在2000年3月，當年有烏克蘭公司將5輛裝甲運兵車賣給1間內地公司，在未有申報下，將軍備由歐洲經海路抵港時，被海關人員發現，海關其後向法庭申請充公……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 22:39:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="blog_listing__item">
+       <a href="http://www.hk01.com/港聞/56187/-%E9%BA%A5%E8%8A%B1%E8%87%A3%E5%A2%9F%E5%B8%82-%E5%8D%80%E6%9C%83%E4%B8%80%E7%A5%A8%E4%B9%8B%E5%B7%AE%E5%90%A6%E6%B1%BA-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B1%85%E6%B0%91%E9%9B%A3%E5%BF%8D%E5%99%AA%E9%9F%B3%E5%95%8F%E9%A1%8C" target="_blank">
+        <div class="blog_listing__item__img ">
+         <img src="https://www.hk01.com/media/article/56187/thumbnail/1b8f97a69a5abf46f830b2825585fbec.jpg"/>
+         <div class="editor_pick">
+          精選
+         </div>
+        </div>
+        <div class="blog_listing__item__content">
+         <div class="blog_listing__item__content__tag">
+          <tag>
+           港聞
+          </tag>
+         </div>
+         <div class="blog_listing__item__content__tit">
+          <h3>
+           【麥花臣墟市】區會一票之差否決　區議員指居民難忍噪音問題
+          </h3>
+         </div>
+         <div class="blog_listing__item__content__caption">
+          油尖旺區議會大會今日（11月24日）討論旺角麥花臣遊樂場設立熟食小吃墟市的建議，席上大部分區議員都讚同墟市建議，但在諮詢期及選址上有爭議，食環署的建議最終在8票贊成，9票反對下被否……
+         </div>
+         <div class="blog_listing__item__content__time">
+          <span class="clock">
+           2016-11-24 22:04:00
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
       <div class="blog_listing__item">
        <a href="http://www.hk01.com/01博評-政經社/56139/%E9%A6%99%E6%B8%AF%E6%88%AA%E7%8D%B2%E6%98%9F%E6%B4%B2%E8%A3%9D%E7%94%B2%E8%BB%8A-%E5%8F%B0%E6%96%B0%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E5%8F%AF%E5%8F%97%E5%BD%B1%E9%9F%BF-" target="_blank">
         <div class="blog_listing__item__img ">
@@ -899,12 +959,9 @@
        </a>
       </div>
       <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56134/%E9%83%A8%E5%88%86%E6%B4%BB%E5%8C%96%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E9%A0%85%E7%9B%AE%E7%B6%93%E7%87%9F%E5%9B%B0%E9%9B%A3-%E8%8A%B3%E5%9C%92%E6%9B%B8%E5%AE%A4%E6%93%AC%E6%94%BE%E6%A3%84%E7%87%9F%E9%81%8B" target="_blank">
+       <a href="http://www.hk01.com/港聞/56140/%E6%A2%81%E6%B8%B8%E8%A2%AB%E8%BF%BD186%E8%90%AC-%E5%BE%8B%E5%B8%AB%E8%AC%9D%E9%80%A3%E5%BF%A0%E9%A1%98%E5%85%8D%E8%B2%BB%E5%B9%AB%E6%90%9E%E7%A0%B4%E7%94%A2-%E4%BB%A4%E6%94%BF%E5%BA%9C%E4%B8%80%E5%80%8B%E4%BB%99%E6%94%B6%E5%94%94%E5%88%B0" target="_blank">
         <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56134/thumbnail/48078d982d2d008c1d81399367ea75bd.jpg"/>
-         <div class="editor_pick">
-          精選
-         </div>
+         <img src="https://www.hk01.com/media/article/56140/thumbnail/9789e14838693a073cd003e463f59964.jpg"/>
         </div>
         <div class="blog_listing__item__content">
          <div class="blog_listing__item__content__tag">
@@ -914,45 +971,15 @@
          </div>
          <div class="blog_listing__item__content__tit">
           <h3>
-           部分活化歷史建築項目經營困難　芳園書室擬放棄營運
+           梁游被追186萬　律師謝連忠願免費幫搞破產：令政府一個仙收唔到
           </h3>
          </div>
          <div class="blog_listing__item__content__caption">
-          發展局今日（24日）公布第五期活化歷史建築伙伴計劃名單，並指過去推出的四期活化計劃中，15個項目中已有8個全面營運。但發展局長陳茂波表示，部分項目因地點偏遠，人流不多，部份營運者曾……
+          高等法院早前裁定，青年新政梁頌恆及游蕙禎自10月12日起喪失議員資格，立法會行政管理委員會今決定追討梁、游薪金津貼合共186萬元，令外界關注二人財政狀況。不過，葉謝鄧律師行高級合伙……
          </div>
          <div class="blog_listing__item__content__time">
           <span class="clock">
-           2016-11-24 19:08:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56127/%E5%85%AC%E9%99%A2%E7%85%A7%E8%85%B8%E9%8F%A1%E7%AD%89%E9%80%BE1%E5%B9%B4-%E9%86%AB%E7%AE%A1%E5%B1%80%E8%B3%87%E5%8A%A9%E9%9D%9E%E7%B7%8A%E6%80%A5%E7%97%85%E4%BA%BA%E7%9C%8B%E7%A7%81%E9%86%AB-%E8%87%AA%E8%B2%BB%E8%87%B3%E5%B0%911%E5%8D%83" target="_blank">
-        <div class="blog_listing__item__img ">
-         <img src="https://www.hk01.com/media/article/56127/thumbnail/9fcb6e6ac56e2ba4d0817d565d339dc5.jpg"/>
-         <div class="editor_pick">
-          精選
-         </div>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           港聞
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           公院照腸鏡等逾1年　醫管局資助非緊急病人看私醫　自費至少1千
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          公立醫院腸道檢查需求與日俱增，醫管局聯網服務總監張偉麟指，公立醫院每年可處理5萬宗大腸鏡檢查，惟每年檢查需求超過5萬宗。截至今年10月，非緊急個案的平均輪候時間為60周，即約1.2……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 18:57:00
+           2016-11-24 22:52:00
           </span>
          </div>
         </div>
@@ -1203,33 +1230,6 @@
         </div>
        </a>
       </div>
-      <div class="blog_listing__item">
-       <a href="http://www.hk01.com/港聞/56064/-%E6%9C%89%E7%89%87-%E5%85%A9%E5%A4%AB%E5%A9%A6%E7%95%B6%E8%A1%97%E8%A2%AB%E6%BD%91%E5%A4%A9%E6%8B%BF%E6%B0%B4-%E8%B6%8A%E5%8D%97%E7%B1%8D%E7%96%91%E5%85%87%E6%8C%87%E7%94%B7%E4%BA%8B%E4%B8%BB%E6%AC%A0%E5%82%B5%E4%B8%8D%E9%82%84" target="_blank">
-        <div class="blog_listing__item__img video">
-         <img src="https://www.hk01.com/media/article/56064/thumbnail/db8bc80c301356d82e27097b65ee57ef.jpg"/>
-        </div>
-        <div class="blog_listing__item__content">
-         <div class="blog_listing__item__content__tag">
-          <tag>
-           港聞
-          </tag>
-         </div>
-         <div class="blog_listing__item__content__tit">
-          <h3>
-           【有片】兩夫婦當街被潑天拿水　越南籍疑兇指男事主欠債不還
-          </h3>
-         </div>
-         <div class="blog_listing__item__content__caption">
-          疑犯逃走時被舖頭閉路電視拍下深水埗發生傷人事件，一名66歲姓謝的男子疑早前與人有錢債糾紛，與妻子被人在街上淋天拿水點火，幸途人喝止未釀慘劇。疑犯事敗逃走遇上巡警被捕，現仍被扣查，夫……
-         </div>
-         <div class="blog_listing__item__content__time">
-          <span class="clock">
-           2016-11-24 19:25:00
-          </span>
-         </div>
-        </div>
-       </a>
-      </div>
       <div class="lazyload_container float_left">
       </div>
      </section>
@@ -1254,61 +1254,9 @@
        </div>
       </div>
       <ul class="hotnews__container hotnews--news">
-       <li class="">
-        <b>
-         1
-        </b>
-        <a href="http://www.hk01.com/熱話/55683/-%E5%81%9A-%E5%85%B5-%E5%8D%81%E5%B9%B4-%E5%A5%B3%E7%A5%9E-%E4%BB%96%E4%B8%8D%E6%98%AF%E7%94%B7%E6%9C%8B%E5%8F%8B-%E6%AF%94%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%9B%B4%E8%A6%AA%E6%9B%B4%E9%87%8D%E8%A6%81">
-         <span>
-          <h3>
-           【做「兵」十年】女神：他不是男朋友　比男朋友更親更重要
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55683/thumbnail/ff14570d205881d932ebb002a9d685a3.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         2
-        </b>
-        <a href="http://www.hk01.com/熱話/55705/%E6%92%9E%E6%AD%A3%E7%99%BD%E4%BA%8B%E9%83%BD%E8%A6%81%E7%95%80%E4%BA%BA%E6%83%85-%E6%9C%8B%E5%8F%8B%E7%A5%9E%E5%9B%9E-%E4%B8%8B%E6%AC%A1%E4%BD%A0%E5%86%8D%E7%B5%90%E5%A9%9A%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0-">
-         <span>
-          <h3>
-           撞正白事都要畀人情？　朋友神回 ： 下次你再結婚我一定到 ！
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55705/thumbnail/d30fe786e34ed64de1fea68412de5403.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         3
-        </b>
-        <a href="http://www.hk01.com/環保/55771/%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E9%81%AD%E9%A3%9F%E7%92%B0%E5%9A%B4%E6%89%93%E7%84%A1%E7%89%8C%E5%81%9A%E5%A0%82%E9%A3%9F-%E5%85%AC%E5%92%8C%E8%8D%B3%E5%93%81%E8%BD%89%E7%94%A8%E5%8D%B3%E6%A3%84%E8%86%A0%E7%A2%97%E9%81%BF%E9%A2%A8%E9%A0%AD-">
-         <span>
-          <h3>
-           百年老店遭食環嚴打無牌做堂食　公和荳品轉用即棄膠碗避風頭
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55771/thumbnail/9a7302891bb0f0334843318ae9e217c6.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         4
-        </b>
-        <a href="http://www.hk01.com/港聞/55868/%E5%8A%89%E5%B0%8F%E9%BA%97%E5%8D%8A%E6%9C%88%E5%85%A7%E4%BA%94%E5%BA%A6-%E7%94%A9%E8%BD%86-%E4%BB%8A%E6%AC%A1%E8%BC%AA%E5%88%B0%E9%81%B8%E5%B0%8F%E7%B5%84%E4%B8%BB%E5%B8%AD%E8%93%8B%E9%8C%AF%E5%8D%B0">
-         <span>
-          <h3>
-           劉小麗半月內五度「甩轆」　今次輪到選小組主席蓋錯印
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55868/thumbnail/f4af44acf275fefd1c46150ec546f415.jpg"/>
-        </a>
-       </li>
        <li class="video">
         <b>
-         5
+         1
         </b>
         <a href="http://www.hk01.com/港聞/55929/-%E6%9C%89%E7%89%87-%E5%AF%8C%E6%98%8C%E9%82%A8%E9%A9%9A%E7%8F%BE%E9%90%B5%E9%8F%BD%E6%B0%B4-%E9%A3%9F%E6%B0%B4%E5%90%AB%E9%90%B5%E7%B2%89%E5%8F%AF%E7%94%A8%E7%A3%81%E7%9F%B3%E5%90%B8%E8%B5%B7">
          <span>
@@ -1321,7 +1269,20 @@
        </li>
        <li class="">
         <b>
-         6
+         2
+        </b>
+        <a href="http://www.hk01.com/熱話/55683/-%E5%81%9A-%E5%85%B5-%E5%8D%81%E5%B9%B4-%E5%A5%B3%E7%A5%9E-%E4%BB%96%E4%B8%8D%E6%98%AF%E7%94%B7%E6%9C%8B%E5%8F%8B-%E6%AF%94%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%9B%B4%E8%A6%AA%E6%9B%B4%E9%87%8D%E8%A6%81">
+         <span>
+          <h3>
+           【做「兵」十年】女神：他不是男朋友　比男朋友更親更重要
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55683/thumbnail/ff14570d205881d932ebb002a9d685a3.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         3
         </b>
         <a href="http://www.hk01.com/熱話/55912/-%E6%8F%9A%E5%A8%81%E6%B5%B7%E5%A4%96-90%E5%BE%8C%E6%86%91iPhone-6s%E5%BD%B1%E6%97%A5%E8%90%BD%E5%B0%91%E5%A5%B3-%E5%A5%AA-%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86-%E4%BD%B3%E4%BD%9C%E8%B3%9E">
          <span>
@@ -1334,7 +1295,20 @@
        </li>
        <li class="">
         <b>
-         7
+         4
+        </b>
+        <a href="http://www.hk01.com/港聞/55967/-%E6%94%BF%E5%9C%88%E9%A2%A8%E8%81%B2-%E6%9B%BE%E9%88%BA%E6%88%90%E5%A2%A8%E5%AF%B6%E6%8B%8D%E8%B3%A3%E5%8F%8D%E6%87%89-%E6%88%90%E7%89%B9%E9%A6%96%E6%88%B0%E9%A2%A8%E5%90%91%E6%A8%99">
+         <span>
+          <h3>
+           【政圈風聲】曾鈺成墨寶拍賣反應　成特首戰風向標
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55967/thumbnail/1cac8dcb452f9e2b8efcb952756b1404.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         5
         </b>
         <a href="http://www.hk01.com/兩岸/55798/%E4%B8%AD%E5%9C%8B%E8%BB%8D%E5%8A%9B%E7%9C%8B%E5%BE%8C%E5%BB%9A-%E7%B6%B2%E5%82%B3%E8%A7%A3%E6%94%BE%E8%BB%8D%E9%A3%9F%E7%89%A9%E5%84%B2%E5%AD%98%E7%85%A7%E8%A2%AB%E8%AD%BD%E7%82%BA%E5%BC%B7%E8%BF%AB%E7%97%87%E5%A4%A9%E5%A0%82">
          <span>
@@ -1347,7 +1321,7 @@
        </li>
        <li class="video">
         <b>
-         8
+         6
         </b>
         <a href="http://www.hk01.com/港聞/55746/%E5%8A%89%E5%B0%8F%E9%BA%97-%E6%89%BE%E6%95%B8-%E6%8D%90%E9%80%BE%E5%8D%8A%E4%BA%BA%E5%B7%A5-%E5%86%80%E5%A3%93%E5%8A%9B%E4%B8%AD%E5%A0%85%E5%AE%9A%E6%8F%90%E5%8D%87%E8%AD%B0%E6%94%BF%E6%B0%B4%E5%B9%B3">
          <span>
@@ -1360,28 +1334,54 @@
        </li>
        <li class="">
         <b>
-         9
+         7
         </b>
-        <a href="http://www.hk01.com/港聞/55637/-%E5%A4%A7%E5%8A%89%E8%81%B2%E6%98%8E-%E5%8A%89%E9%91%BE%E9%9B%84%E7%94%98%E6%AF%94%E7%B5%90%E7%82%BA%E5%A4%AB%E5%A6%BB-%E4%B8%80%E7%B4%99%E5%A9%9A%E6%9B%B8%E5%B0%8D%E8%B2%A1%E7%94%A2%E5%88%86%E9%85%8D%E6%9C%89%E4%BD%95%E5%BD%B1%E9%9F%BF-">
+        <a href="http://www.hk01.com/經濟/55954/%E8%8E%8E%E8%8E%8E%E4%B8%AD%E6%9C%9F%E7%9B%88%E5%88%A9%E6%8C%AB%E8%BF%914%E6%88%90-%E6%B4%BE%E6%81%AF%E6%AF%94%E7%8E%87%E6%AD%B7%E5%B9%B4%E4%B9%8B%E5%86%A0">
          <span>
           <h3>
-           【大劉聲明】劉鑾雄甘比結為夫妻　一紙婚書對財產分配有何影響？
+           莎莎中期盈利挫近4成　派息比率歷年之冠
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55637/thumbnail/0c30cc2425918cb04290cacc840b2b60.jpg"/>
+         <img src="https://www.hk01.com/media/article/55954/thumbnail/7bf16c176eada30a644bee44597fe00f.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
+        </b>
+        <a href="http://www.hk01.com/港聞/55868/%E5%8A%89%E5%B0%8F%E9%BA%97%E5%8D%8A%E6%9C%88%E5%85%A7%E4%BA%94%E5%BA%A6-%E7%94%A9%E8%BD%86-%E4%BB%8A%E6%AC%A1%E8%BC%AA%E5%88%B0%E9%81%B8%E5%B0%8F%E7%B5%84%E4%B8%BB%E5%B8%AD%E8%93%8B%E9%8C%AF%E5%8D%B0">
+         <span>
+          <h3>
+           劉小麗半月內五度「甩轆」　今次輪到選小組主席蓋錯印
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55868/thumbnail/f4af44acf275fefd1c46150ec546f415.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         9
+        </b>
+        <a href="http://www.hk01.com/熱話/55705/%E6%92%9E%E6%AD%A3%E7%99%BD%E4%BA%8B%E9%83%BD%E8%A6%81%E7%95%80%E4%BA%BA%E6%83%85-%E6%9C%8B%E5%8F%8B%E7%A5%9E%E5%9B%9E-%E4%B8%8B%E6%AC%A1%E4%BD%A0%E5%86%8D%E7%B5%90%E5%A9%9A%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0-">
+         <span>
+          <h3>
+           撞正白事都要畀人情？　朋友神回 ： 下次你再結婚我一定到 ！
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55705/thumbnail/d30fe786e34ed64de1fea68412de5403.jpg"/>
         </a>
        </li>
        <li class="">
         <b>
          10
         </b>
-        <a href="http://www.hk01.com/港聞/55967/-%E6%94%BF%E5%9C%88%E9%A2%A8%E8%81%B2-%E6%9B%BE%E9%88%BA%E6%88%90%E5%A2%A8%E5%AF%B6%E6%8B%8D%E8%B3%A3%E5%8F%8D%E6%87%89-%E6%88%90%E7%89%B9%E9%A6%96%E6%88%B0%E9%A2%A8%E5%90%91%E6%A8%99">
+        <a href="http://www.hk01.com/罪案/55983/%E5%AF%92%E5%A4%A9%E9%85%92%E6%A8%93%E6%BB%BF%E5%BA%A7%E7%84%A1%E5%BE%97%E9%A3%9F-%E8%BA%81%E5%BA%95%E7%94%B7%E6%8B%94%E7%90%83%E6%8B%8D%E8%BF%BD%E6%89%93%E7%B6%93%E7%90%86%E5%85%A9%E5%B1%A4%E6%A8%93">
          <span>
           <h3>
-           【政圈風聲】曾鈺成墨寶拍賣反應　成特首戰風向標
+           寒天酒樓滿座無得食　躁底男拔球拍追打經理兩層樓
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55967/thumbnail/1cac8dcb452f9e2b8efcb952756b1404.jpg"/>
+         <img src="https://www.hk01.com/media/article/55983/thumbnail/6c551bb2233637024d3648f14fa36574.jpg"/>
         </a>
        </li>
       </ul>
@@ -1403,6 +1403,19 @@
         <b>
          2
         </b>
+        <a href="http://www.hk01.com/01博評-政經社/55838/%E9%96%8B%E9%A6%99%E6%AA%B3%E6%85%B6%E7%A5%9DA-F%E6%92%A4%E5%87%BA%E9%A6%99%E6%B8%AF">
+         <span>
+          <h3>
+           開香檳慶祝A&amp;F撤出香港
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55838/thumbnail/8a3016c567dc6b8e508732e9bafe9c9d.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         3
+        </b>
         <a href="http://www.hk01.com/01博評-Sports/55713/-%E6%AD%A6%E8%A1%9301-%E7%9A%84%E5%A3%AB%E5%93%A5%E5%93%A5%E5%A4%A7%E6%88%B0%E5%98%85%E5%B9%BE%E5%80%8B%E6%8A%80%E8%A1%93%E4%BD%8D">
          <span>
           <h3>
@@ -1412,9 +1425,22 @@
          <img src="https://www.hk01.com/media/article/55713/thumbnail/1519874010315ecdd2c1c67a2b90d336.jpg"/>
         </a>
        </li>
+       <li class="video">
+        <b>
+         4
+        </b>
+        <a href="http://www.hk01.com/01博評-香港地/55601/%E9%A6%99%E6%B8%AF%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E5%8F%B0%E7%81%A3%E8%A7%80%E5%85%89%E5%B1%80-%E6%88%90%E9%BE%8D%E8%88%87%E9%95%B7%E6%BE%A4%E6%AD%A3%E7%BE%8E">
+         <span>
+          <h3>
+           香港旅發局與台灣觀光局　成龍與長澤正美
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55601/thumbnail/7a895b85fed2ee367dae86512a48174b.jpg"/>
+        </a>
+       </li>
        <li class="">
         <b>
-         3
+         5
         </b>
         <a href="http://www.hk01.com/01博評-生活/55508/-%E4%BE%86%E7%A8%BF-HR%E4%BA%BA%E5%9B%9E%E6%87%89%E8%A9%A9%E5%AF%A7-%E8%A6%8B%E4%B8%80%E6%AC%A1%E5%B7%A5%E5%B0%B1%E7%9F%A5%E4%BC%8F%E5%94%94%E4%BC%8F-%E5%B0%8F%E5%BF%83%E5%86%87%E5%92%97%E4%BB%BD%E5%A5%BD%E5%B7%A5">
          <span>
@@ -1427,7 +1453,33 @@
        </li>
        <li class="">
         <b>
-         4
+         6
+        </b>
+        <a href="http://www.hk01.com/01博評-藝．文化/55552/-%E5%BD%B1%E8%A9%95-%E6%80%AA%E7%8D%B8%E8%88%87%E7%89%A0%E5%80%91%E7%9A%84%E7%94%A2%E5%9C%B0-%E6%96%B0%E9%AE%AE%E6%84%9F%E8%B6%B3%E6%84%9F%E6%83%85%E5%88%86%E5%A4%A0-%E9%80%9A%E6%AE%BA-">
+         <span>
+          <h3>
+           【影評．怪獸與牠們的產地】新鮮感足感情分夠　通殺！
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55552/thumbnail/6e6922d0694212cf39b8adc3bdae1ad7.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         7
+        </b>
+        <a href="http://www.hk01.com/01博評-政經社/56011/-%E8%BD%89%E8%BC%89-%E5%8F%B0%E7%81%A3%E7%9A%84%E6%95%85%E4%BA%8B-%E6%88%91%E7%9A%84%E5%90%8C%E6%80%A7%E6%88%80%E7%88%B8%E7%88%B8-">
+         <span>
+          <h3>
+           【轉載．台灣的故事】《我的同性戀爸爸》
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/56011/thumbnail/b34e910b6b0efa63b1e318544c40733f.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
         </b>
         <a href="http://www.hk01.com/01博評-香港地/55506/-Page-One%E5%81%9C%E6%A5%AD-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9B%B8%E5%BA%97-%E6%9B%B4%E6%98%AF%E6%80%9D%E8%80%83">
          <span>
@@ -1436,58 +1488,6 @@
           </h3>
          </span>
          <img src="https://www.hk01.com/media/article/55506/thumbnail/dbc30bafb0fda52f2daeee8c23cbb56c.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         5
-        </b>
-        <a href="http://www.hk01.com/01博評-親子丼/55201/-%E9%BA%BB%E7%94%A9%E6%95%99%E4%BB%94%E5%AD%B8-%E4%B8%80%E5%A0%B4%E6%9C%97%E8%AA%A6%E6%AF%94%E8%B3%BD-%E8%AE%93%E6%88%91%E7%9C%8B%E5%88%B0%E9%86%9C%E6%85%8B%E7%9B%A1%E7%8F%BE%E7%9A%84%E7%88%B6%E6%AF%8D">
-         <span>
-          <h3>
-           【麻甩教仔學】一場朗誦比賽，讓我看到醜態盡現的父母
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55201/thumbnail/b35f0897d89c98f2b678d5f8a6e0a49b.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         6
-        </b>
-        <a href="http://www.hk01.com/01博評-生活/54904/-%E5%BB%A2%E9%9D%92%E6%B1%82%E8%81%B7%E6%94%BB%E7%95%A5-%E5%A6%82%E4%BD%95-%E8%AB%8B%E5%81%87%E8%A6%8B%E5%B7%A5-%E4%B8%8D%E8%A2%AB%E8%80%81%E7%B4%B0%E7%99%BC%E7%8F%BE-">
-         <span>
-          <h3>
-           【廢青求職攻略】如何「請假見工」不被老細發現？
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/54904/thumbnail/592271405f4887255c2cba99f99cecdc.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         7
-        </b>
-        <a href="http://www.hk01.com/01博評-政經社/55479/%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E4%B8%80%E7%9B%A4%E9%A6%99%E6%B8%AF%E8%9D%95-%E7%BE%8E%E5%9C%8B%E8%B3%BA%E7%9A%84%E5%B8%B3">
-         <span>
-          <h3>
-           迪士尼：一盤香港蝕、美國賺的帳
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55479/thumbnail/83a1d3dded890402d05b951895502cae.jpg"/>
-        </a>
-       </li>
-       <li class="video">
-        <b>
-         8
-        </b>
-        <a href="http://www.hk01.com/01博評-香港地/55601/%E9%A6%99%E6%B8%AF%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E5%8F%B0%E7%81%A3%E8%A7%80%E5%85%89%E5%B1%80-%E6%88%90%E9%BE%8D%E8%88%87%E9%95%B7%E6%BE%A4%E6%AD%A3%E7%BE%8E">
-         <span>
-          <h3>
-           香港旅發局與台灣觀光局　成龍與長澤正美
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55601/thumbnail/7a895b85fed2ee367dae86512a48174b.jpg"/>
         </a>
        </li>
        <li class="">
@@ -1507,13 +1507,13 @@
         <b>
          10
         </b>
-        <a href="http://www.hk01.com/01博評-藝．文化/55462/%E5%AF%A6%E9%AB%94%E6%9B%B8%E5%BA%97%E7%87%9F%E9%81%8B%E9%9B%A3-%E7%82%BA%E4%BD%95%E5%81%8F%E5%81%8F%E6%98%AFPage-One-">
+        <a href="http://www.hk01.com/01博評-親子丼/55201/-%E9%BA%BB%E7%94%A9%E6%95%99%E4%BB%94%E5%AD%B8-%E4%B8%80%E5%A0%B4%E6%9C%97%E8%AA%A6%E6%AF%94%E8%B3%BD-%E8%AE%93%E6%88%91%E7%9C%8B%E5%88%B0%E9%86%9C%E6%85%8B%E7%9B%A1%E7%8F%BE%E7%9A%84%E7%88%B6%E6%AF%8D">
          <span>
           <h3>
-           實體書店營運難，為何偏偏是Page One？
+           【麻甩教仔學】一場朗誦比賽，讓我看到醜態盡現的父母
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55462/thumbnail/721b273c049f29f8e07f7cf8891b8bac.jpg"/>
+         <img src="https://www.hk01.com/media/article/55201/thumbnail/b35f0897d89c98f2b678d5f8a6e0a49b.jpg"/>
         </a>
        </li>
       </ul>
@@ -1521,19 +1521,6 @@
        <li class="">
         <b>
          1
-        </b>
-        <a href="http://www.hk01.com/熱話/55683/-%E5%81%9A-%E5%85%B5-%E5%8D%81%E5%B9%B4-%E5%A5%B3%E7%A5%9E-%E4%BB%96%E4%B8%8D%E6%98%AF%E7%94%B7%E6%9C%8B%E5%8F%8B-%E6%AF%94%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%9B%B4%E8%A6%AA%E6%9B%B4%E9%87%8D%E8%A6%81">
-         <span>
-          <h3>
-           【做「兵」十年】女神：他不是男朋友　比男朋友更親更重要
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55683/thumbnail/ff14570d205881d932ebb002a9d685a3.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         2
         </b>
         <a href="http://www.hk01.com/娛樂/55970/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E9%BE%94%E5%98%89%E6%AC%A3%E9%81%87%E5%B0%8F%E4%B8%89%E7%88%86%E5%96%8A-%E8%A6%AA%E8%BA%AB%E7%B6%93%E6%AD%B7%E7%89%B9%E5%88%A5%E6%8A%95%E5%85%A5-%E5%85%A8%E9%83%A8%E7%9C%9F%E7%9C%BC%E6%B7%9A">
          <span>
@@ -1544,22 +1531,22 @@
          <img src="https://www.hk01.com/media/article/55970/thumbnail/595fdd290caf4ce420c4e2fd2048e14e.jpg"/>
         </a>
        </li>
-       <li class="">
+       <li class="video">
         <b>
-         3
+         2
         </b>
-        <a href="http://www.hk01.com/科技玩物/55823/-%E7%99%BE%E8%AE%8A%E6%80%AADitto-%E7%AA%81%E7%8F%BE%E8%BA%ABPokemon-GO-%E8%B8%A2%E9%A4%A8-%E6%99%82%E5%8F%AF%E5%8C%96%E8%BA%AB%E5%B0%8D%E6%89%8B">
+        <a href="http://www.hk01.com/港聞/55929/-%E6%9C%89%E7%89%87-%E5%AF%8C%E6%98%8C%E9%82%A8%E9%A9%9A%E7%8F%BE%E9%90%B5%E9%8F%BD%E6%B0%B4-%E9%A3%9F%E6%B0%B4%E5%90%AB%E9%90%B5%E7%B2%89%E5%8F%AF%E7%94%A8%E7%A3%81%E7%9F%B3%E5%90%B8%E8%B5%B7">
          <span>
           <h3>
-           「百變怪Ditto」突現身Pokemon GO！　「踢館」時可化身對手
+           【有片】富昌邨驚現鐵鏽水　食水含鐵粉可用磁石吸起
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55823/thumbnail/88a3664d4f30e0dfebc960a4b9b82812.jpg"/>
+         <img src="https://www.hk01.com/media/article/55929/thumbnail/62a9fdde2097566229e03b176c21330a.jpg"/>
         </a>
        </li>
        <li class="">
         <b>
-         4
+         3
         </b>
         <a href="http://www.hk01.com/娛樂/55904/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E9%BB%83%E5%AE%97%E6%BE%A4%E7%82%BA%E9%8C%A2%E5%A5%B8%E5%88%B0%E7%9B%A1-30%E5%B9%BE%E6%AD%B2%E4%BA%BA%E4%BB%B2%E5%81%9A%E5%81%B6%E5%83%8F%E6%B4%BE%E5%92%A9-">
          <span>
@@ -1570,35 +1557,9 @@
          <img src="https://www.hk01.com/media/article/55904/thumbnail/a813a4753c9454d520828c148075f098.jpg"/>
         </a>
        </li>
-       <li class="">
-        <b>
-         5
-        </b>
-        <a href="http://www.hk01.com/熱話/55705/%E6%92%9E%E6%AD%A3%E7%99%BD%E4%BA%8B%E9%83%BD%E8%A6%81%E7%95%80%E4%BA%BA%E6%83%85-%E6%9C%8B%E5%8F%8B%E7%A5%9E%E5%9B%9E-%E4%B8%8B%E6%AC%A1%E4%BD%A0%E5%86%8D%E7%B5%90%E5%A9%9A%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0-">
-         <span>
-          <h3>
-           撞正白事都要畀人情？　朋友神回 ： 下次你再結婚我一定到 ！
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55705/thumbnail/d30fe786e34ed64de1fea68412de5403.jpg"/>
-        </a>
-       </li>
-       <li class="">
-        <b>
-         6
-        </b>
-        <a href="http://www.hk01.com/娛樂/55935/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E5%8A%87%E9%80%8F-%E9%BB%83%E5%AE%97%E6%BE%A4%E5%88%A9%E6%85%BE%E8%96%B0%E5%BF%83%E5%AE%B3%E6%AD%BB%E9%99%B8%E6%B0%B8-%E6%90%B6%E4%BA%BA%E5%A6%BB%E9%BB%83%E7%BF%A0%E5%A6%82%E6%AD%A3%E4%BA%BA%E6%B8%A3">
-         <span>
-          <h3>
-           【幕後玩家．劇透】黃宗澤利慾薰心害死陸永　搶人妻黃翠如正人渣
-          </h3>
-         </span>
-         <img src="https://www.hk01.com/media/article/55935/thumbnail/4da101993bb59d8f1b728867f0691ba8.jpg"/>
-        </a>
-       </li>
        <li class="video">
         <b>
-         7
+         4
         </b>
         <a href="http://www.hk01.com/01博評-Sports/55644/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E6%94%B6%E7%9B%8A-%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B3%BD">
          <span>
@@ -1611,41 +1572,80 @@
        </li>
        <li class="">
         <b>
-         8
+         5
         </b>
-        <a href="http://www.hk01.com/環保/55771/%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E9%81%AD%E9%A3%9F%E7%92%B0%E5%9A%B4%E6%89%93%E7%84%A1%E7%89%8C%E5%81%9A%E5%A0%82%E9%A3%9F-%E5%85%AC%E5%92%8C%E8%8D%B3%E5%93%81%E8%BD%89%E7%94%A8%E5%8D%B3%E6%A3%84%E8%86%A0%E7%A2%97%E9%81%BF%E9%A2%A8%E9%A0%AD-">
+        <a href="http://www.hk01.com/娛樂/55935/-%E5%B9%95%E5%BE%8C%E7%8E%A9%E5%AE%B6-%E5%8A%87%E9%80%8F-%E9%BB%83%E5%AE%97%E6%BE%A4%E5%88%A9%E6%85%BE%E8%96%B0%E5%BF%83%E5%AE%B3%E6%AD%BB%E9%99%B8%E6%B0%B8-%E6%90%B6%E4%BA%BA%E5%A6%BB%E9%BB%83%E7%BF%A0%E5%A6%82%E6%AD%A3%E4%BA%BA%E6%B8%A3">
          <span>
           <h3>
-           百年老店遭食環嚴打無牌做堂食　公和荳品轉用即棄膠碗避風頭
+           【幕後玩家．劇透】黃宗澤利慾薰心害死陸永　搶人妻黃翠如正人渣
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55771/thumbnail/9a7302891bb0f0334843318ae9e217c6.jpg"/>
+         <img src="https://www.hk01.com/media/article/55935/thumbnail/4da101993bb59d8f1b728867f0691ba8.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         6
+        </b>
+        <a href="http://www.hk01.com/熱話/55683/-%E5%81%9A-%E5%85%B5-%E5%8D%81%E5%B9%B4-%E5%A5%B3%E7%A5%9E-%E4%BB%96%E4%B8%8D%E6%98%AF%E7%94%B7%E6%9C%8B%E5%8F%8B-%E6%AF%94%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%9B%B4%E8%A6%AA%E6%9B%B4%E9%87%8D%E8%A6%81">
+         <span>
+          <h3>
+           【做「兵」十年】女神：他不是男朋友　比男朋友更親更重要
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55683/thumbnail/ff14570d205881d932ebb002a9d685a3.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         7
+        </b>
+        <a href="http://www.hk01.com/娛樂/55948/-%E8%87%B4%E5%91%BD%E5%BE%A9%E6%B4%BB-%E5%8A%87%E9%80%8F-%E9%83%AD%E6%99%89%E5%AE%89%E8%A2%AB%E4%BA%BA%E9%99%B7%E5%AE%B3-%E8%90%AC%E7%B6%BA%E9%9B%AF%E4%BF%82%E6%83%A1%E6%AF%92%E4%BA%BA%E5%A6%BB-">
+         <span>
+          <h3>
+           【致命復活．劇透】郭晉安被人陷害　萬綺雯係惡毒人妻？
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55948/thumbnail/ca88a9e86dee1a6d942b3a1fe18bd019.jpg"/>
+        </a>
+       </li>
+       <li class="">
+        <b>
+         8
+        </b>
+        <a href="http://www.hk01.com/體育/55987/-%E7%BE%BD%E6%AF%9B%E7%90%83-%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D89%E4%BD%8D%E5%B0%8F%E5%B0%87%E6%9D%8E%E5%8D%93%E8%80%80-%E7%88%86%E5%86%B7%E6%8C%AB%E4%B8%AD%E5%9C%8B%E9%A0%AD%E8%99%9F%E7%90%83%E6%89%8B">
+         <span>
+          <h3>
+           【羽毛球．香港賽】世界排名89位小將李卓耀　爆冷挫中國頭號球手
+          </h3>
+         </span>
+         <img src="https://www.hk01.com/media/article/55987/thumbnail/50efb0e9976571791c64c30074d552bb.jpg"/>
         </a>
        </li>
        <li class="">
         <b>
          9
         </b>
-        <a href="http://www.hk01.com/港聞/55868/%E5%8A%89%E5%B0%8F%E9%BA%97%E5%8D%8A%E6%9C%88%E5%85%A7%E4%BA%94%E5%BA%A6-%E7%94%A9%E8%BD%86-%E4%BB%8A%E6%AC%A1%E8%BC%AA%E5%88%B0%E9%81%B8%E5%B0%8F%E7%B5%84%E4%B8%BB%E5%B8%AD%E8%93%8B%E9%8C%AF%E5%8D%B0">
+        <a href="http://www.hk01.com/港聞/55967/-%E6%94%BF%E5%9C%88%E9%A2%A8%E8%81%B2-%E6%9B%BE%E9%88%BA%E6%88%90%E5%A2%A8%E5%AF%B6%E6%8B%8D%E8%B3%A3%E5%8F%8D%E6%87%89-%E6%88%90%E7%89%B9%E9%A6%96%E6%88%B0%E9%A2%A8%E5%90%91%E6%A8%99">
          <span>
           <h3>
-           劉小麗半月內五度「甩轆」　今次輪到選小組主席蓋錯印
+           【政圈風聲】曾鈺成墨寶拍賣反應　成特首戰風向標
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55868/thumbnail/f4af44acf275fefd1c46150ec546f415.jpg"/>
+         <img src="https://www.hk01.com/media/article/55967/thumbnail/1cac8dcb452f9e2b8efcb952756b1404.jpg"/>
         </a>
        </li>
-       <li class="video">
+       <li class="">
         <b>
          10
         </b>
-        <a href="http://www.hk01.com/港聞/55929/-%E6%9C%89%E7%89%87-%E5%AF%8C%E6%98%8C%E9%82%A8%E9%A9%9A%E7%8F%BE%E9%90%B5%E9%8F%BD%E6%B0%B4-%E9%A3%9F%E6%B0%B4%E5%90%AB%E9%90%B5%E7%B2%89%E5%8F%AF%E7%94%A8%E7%A3%81%E7%9F%B3%E5%90%B8%E8%B5%B7">
+        <a href="http://www.hk01.com/熱話/55912/-%E6%8F%9A%E5%A8%81%E6%B5%B7%E5%A4%96-90%E5%BE%8C%E6%86%91iPhone-6s%E5%BD%B1%E6%97%A5%E8%90%BD%E5%B0%91%E5%A5%B3-%E5%A5%AA-%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86-%E4%BD%B3%E4%BD%9C%E8%B3%9E">
          <span>
           <h3>
-           【有片】富昌邨驚現鐵鏽水　食水含鐵粉可用磁石吸起
+           【揚威海外】90後憑iPhone 6s影日落少女　奪《國家地理》佳作賞
           </h3>
          </span>
-         <img src="https://www.hk01.com/media/article/55929/thumbnail/62a9fdde2097566229e03b176c21330a.jpg"/>
+         <img src="https://www.hk01.com/media/article/55912/thumbnail/606f5380dba11cb76697e404a04660ce.jpg"/>
         </a>
        </li>
       </ul>
