@@ -1,6 +1,28 @@
 # title: data extractor for crime map #
 # starting...                         #
 # go!                                 #
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+from pprint import pprint
+from collections import defaultdict
+import sys
+import re
+import json
+
+req = Request('https://www.hk01.com/section/%E6%B8%AF%E8%81%9E',
+              headers={'User-Agent': 'Mozilla/5.0'})
+page = urlopen(req).read()
+
+soup = BeautifulSoup(page, 'lxml')
+
+orig_stdout = sys.stdout
+f = open('out.txt', 'w')
+sys.stdout = f
+
+print(soup.prettify())
+
+sys.stdout = orig_stdout
+f.close()
 
 with open('/Users/Pharrell_WANG/Documents/CrimeMapProject/Z-inputFilesForCrimeMap/listcrime.txt', 'r+') as fc:
     crimelines = [line[:-1] for line in fc]  # for escaping the newline next to the location string
@@ -10,6 +32,9 @@ with open('/Users/Pharrell_WANG/Documents/CrimeMapProject/Z-inputFilesForCrimeMa
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # //---->loop through the crimelines list, until there's a match
+
+# loop then check the news title and news contents, to see if  A is in B #
+
 s = localines[9]  # get crime from text file.
 t = "西環"  # get crime from web
 print("s=" + s)  # for debugging
