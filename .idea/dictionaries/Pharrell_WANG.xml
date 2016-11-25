@@ -2,10 +2,12 @@
   <dictionary name="Pharrell_WANG">
     <words>
       <w>crimelines</w>
+      <w>geocoding</w>
       <w>listcrime</w>
       <w>listlocation</w>
       <w>localines</w>
       <w>pharrell</w>
+      <w>refpart</w>
     </words>
   </dictionary>
 </component>
