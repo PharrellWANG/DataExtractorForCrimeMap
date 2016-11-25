@@ -1,12 +1,14 @@
 # title: data extractor for crime map #
 # starting...                         #
 # go!                                 #
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, SoupStrainer
 import urllib
 from urllib.request import Request, urlopen
 import sys
+import geocoder
 
 from datetime import datetime
+
 start = datetime.now()
 print("=============================")
 print("$----> data extractor starting... #####")
@@ -47,42 +49,53 @@ for member in collection:
     for crime in crimelines:
         if crime not in title:
             continue
-        else:
-            # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
+        else:  # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
             for location in localines:
-                if location not in title:  # go check contents in url
+                if location not in title:  # todo: go check contents in url : 1. find news contents 2. if location not in contents, continue;else do the folowing things
+                    # contents = soup2.
+
                     continue
-                else:
+                else:  # location in title
+                    g = geocoder.google(location)
+                    print(g.latlng)
+                    print(type(g.latlng))
+                    lat = g.latlng[0]
+                    lng = g.latlng[1]
+                    time_twins = soup2.find_all("div", class_="date")
+                    for tag in time_twins:
+                        issue_time = tag.text.strip()[34:]
+                        # print(issue_time)
+                        break
+
                     with open("dele_CrimeLocationPairs.txt", "a") as pairs:
                         pairs.write('crime      :' + crime)
                         pairs.write("\n")
                         pairs.write('location   :' + location)
                         pairs.write("\n")
-                        pairs.write('issue time :')
+                        pairs.write('issue time :' + issue_time)
                         pairs.write("\n")
-                        pairs.write('crime cato :')
+                        pairs.write('crime cato :' + "to do ...")
                         pairs.write("\n")
-                        pairs.write('latitude   :')
+                        pairs.write('latitude   :' + str(lat))
                         pairs.write("\n")
-                        pairs.write('longitude  :')
+                        pairs.write('longitude  :' + str(lng))
                         pairs.write("\n")
-                        pairs.write('title      :')
+                        pairs.write('title      :' + title)
                         pairs.write("\n")
-                        pairs.write('URL        :')
+                        pairs.write('URL        :' + url)
                         pairs.write("\n")
                         pairs.write("\n")
                         pairs.write("\n")
-
                         pairs.close()
                 break
-
+        break
     print(title)
     print(url)
     print()
 sys.stdout = orig_stdout
 f1.close()
 
-print("     #2. Time lapsed: "+str(datetime.now()-start))
+print("     #2. Time lapsed: " + str(datetime.now() - start))
 print()
 print("$----> data extractor ending... #####")
 print("=============================")
