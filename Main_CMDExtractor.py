@@ -6,10 +6,14 @@ import urllib
 from urllib.request import Request, urlopen
 import sys
 
-with open('/Users/Pharrell_WANG/Documents/CrimeMapProject/Z-inputFilesForCrimeMap/listcrime.txt', 'r+') as fc:
-    crimelines = [line[:-1] for line in fc]  # for escaping the newline next to the location string
+from datetime import datetime
+start = datetime.now()
+print("=============================")
+print("$----> data extractor starting... #####")
 
-with open('/Users/Pharrell_WANG/Documents/CrimeMapProject/Z-inputFilesForCrimeMap/listlocation.txt', 'r+') as fl:
+with open('/Users/Pharrell_WANG/PycharmProjects/DataExtractorForCrimeMap/Lib1_ListOfCrime.txt', 'r+') as fc:
+    crimelines = [line[:-1] for line in fc]  # for escaping the newline next to the location string
+with open('/Users/Pharrell_WANG/PycharmProjects/DataExtractorForCrimeMap/Lib2_ListOfLocation.txt', 'r+') as fl:
     localines = [line[:-1] for line in fl]  # for escaping the newline next to the location string
 
 req = Request('https://www.hk01.com/section/%E6%B8%AF%E8%81%9E',
@@ -18,85 +22,60 @@ page = urlopen(req).read()
 
 soup = BeautifulSoup(page, 'lxml')
 
-# //--->for redirecting the web contents to text file  for the purpose of debugging??
-orig_stdout = sys.stdout
-f = open('output_of_inspect.txt', 'w')
-sys.stdout = f
-
-print(soup.prettify())
-
-sys.stdout = orig_stdout
-f.close()
-# //--->redirection completed
-
 collection = soup.find_all("div", class_="blog_listing__item")
+print()
+print("     #1. Number of news found: " + str(len(collection)))
 
-# //--->for redirecting the web contents to text file  for the purpose of debugging??
 orig_stdout = sys.stdout
-f = open('collection.html', 'w')
-sys.stdout = f
-
-print(collection)
-
-sys.stdout = orig_stdout
-f.close()
-# //--->redirection completed
-
-# //--->for redirecting the web contents to text file  for the purpose of debugging??
-orig_stdout = sys.stdout
-f1 = open('extracted_title_link_pairs.txt', 'w')
+f1 = open('s_TitleUrlPairs.txt', 'w')
 sys.stdout = f1
 
 for member in collection:
     title = member.find("h3")
     title = title.string
     ref = member.find('a').get('href')
-# for reading url containing Traditional Chinese words
+
+    # for reading url containing Traditional Chinese words
     refpart2 = ref[20:]
     s = refpart2
     s = urllib.parse.quote(s)
-    url = 'http://www.hk01.com/01%s' % (
-        s)
-    req = Request(url,
-                  headers={'User-Agent': 'Mozilla/5.0'})
-    page = urlopen(req).read()
+    url = 'http://www.hk01.com/01%s' % (s)
 
-    soup = BeautifulSoup(page, 'lxml')
+    req2 = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    page2 = urlopen(req2).read()
+    soup2 = BeautifulSoup(page2, 'lxml')  # single page
 
-    # //--->for redirecting the web contents to text file  for the purpose of debugging??
-    orig_stdout = sys.stdout
-    f = open('page_of_single_news.html', 'w')
-    sys.stdout = f
-    print(soup.prettify())
-    sys.stdout = orig_stdout
-    f.close()
-    # //--->redirection completed
-
-    # for crime in crimelines:
-    #     if crime not in title:
-    #         continue
-    #     else:
-    #         for location in localines:
-    #             if location not in title: # go check contents first
-    #                 req = Request(ref, headers={'User-Agent': 'Mozilla/5.0'})
-    #                 page = urlopen(req).read()
-    #                 soup = BeautifulSoup(page, 'lxml')
-    #                 # //--->for redirecting the web contents to text file  for the purpose of debugging??
-    #                 orig_stdout = sys.stdout
-    #                 f = open('output_of_inspect_single_news.txt', 'w')
-    #                 sys.stdout = f
-    #                 print(soup.prettify())
-    #                 sys.stdout = orig_stdout
-    #                 f.close()
-    #                 # //--->redirection completed
+    for crime in crimelines:
+        if crime not in title:
+            continue
+        else:
+            # tod---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
+            with open("s_CrimeLocationPairs.txt", "a") as pairs:
+                pairs.write('crime found:     ' + crime)
+                pairs.write("\n")
+                pairs.close()
+            for location in localines:
+                if location not in title:  # go check contents in url
+                    continue
+                else:
+                    with open("s_CrimeLocationPairs.txt", "a") as pairs:
+                        pairs.write('location found:  ' + location)
+                        pairs.write("\n")
+                        pairs.write("\n")
+                        pairs.close()
+                break
 
     print(title)
-    print(ref)
     print(url)
     print()
-
 sys.stdout = orig_stdout
-f.close()
+f1.close()
+
+print("     #2. Time lapsed: "+str(datetime.now()-start))
+print()
+print("$----> data extractor ending... #####")
+print("=============================")
+
 # //--->redirection completed
 
 
