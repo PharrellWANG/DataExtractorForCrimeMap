@@ -27,7 +27,7 @@ print()
 print("     #1. Number of news found: " + str(len(collection)))
 
 orig_stdout = sys.stdout
-f1 = open('s_TitleUrlPairs.txt', 'w')
+f1 = open('dele_TitleUrlPairs.txt', 'w')
 sys.stdout = f1
 
 for member in collection:
@@ -48,19 +48,31 @@ for member in collection:
         if crime not in title:
             continue
         else:
-            # tod---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
-            with open("s_CrimeLocationPairs.txt", "a") as pairs:
-                pairs.write('crime found:     ' + crime)
-                pairs.write("\n")
-                pairs.close()
+            # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
             for location in localines:
                 if location not in title:  # go check contents in url
                     continue
                 else:
-                    with open("s_CrimeLocationPairs.txt", "a") as pairs:
-                        pairs.write('location found:  ' + location)
+                    with open("dele_CrimeLocationPairs.txt", "a") as pairs:
+                        pairs.write('crime      :' + crime)
+                        pairs.write("\n")
+                        pairs.write('location   :' + location)
+                        pairs.write("\n")
+                        pairs.write('issue time :')
+                        pairs.write("\n")
+                        pairs.write('crime cato :')
+                        pairs.write("\n")
+                        pairs.write('latitude   :')
+                        pairs.write("\n")
+                        pairs.write('longitude  :')
+                        pairs.write("\n")
+                        pairs.write('title      :')
+                        pairs.write("\n")
+                        pairs.write('URL        :')
                         pairs.write("\n")
                         pairs.write("\n")
+                        pairs.write("\n")
+
                         pairs.close()
                 break
 
