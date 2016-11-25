@@ -27,6 +27,7 @@ soup = BeautifulSoup(page, 'lxml')
 collection = soup.find_all("div", class_="blog_listing__item")
 print()
 print("     #1. Number of news found: " + str(len(collection)))
+atitle = []
 
 orig_stdout = sys.stdout
 f1 = open('dele_TitleUrlPairs.txt', 'w')
@@ -35,6 +36,8 @@ sys.stdout = f1
 for member in collection:
     title = member.find("h3")
     title = title.string
+    assert isinstance(title, object)
+
     ref = member.find('a').get('href')
     # for reading url containing Traditional Chinese words
     refpart2 = ref[20:]
@@ -47,11 +50,46 @@ for member in collection:
     soup2 = BeautifulSoup(page2, 'lxml')  # single page
     # contents = soup2.find_all('p')
     # print(contents)
+    Flag = False
 
     for crime in crimelines:
         if crime not in title:
             continue
-        else:
+        else: # crime in the title
+            # for single_title in atitle:
+            #     if single_title == title:
+            #         Flag = False
+            #         break
+            #     else:
+            #         Flag = True
+            # if Flag:
+
+            atitle.append(title)
+            atitle = list(set(atitle))  # handle duplications
+            if "爆竊" == crime:
+                crimecat = "burglary"
+            elif "攻擊" == crime or "持械攻擊" == crime:
+                crimecat = "violent crime"
+            elif "兇殺" == crime or "謀殺" == crime or "殺人" == crime:
+                crimecat = "homicide"
+            elif "搶劫" == crime or "搶掠" == crime or "行搶" == crime or "劫" == crime or "劫案" == crime:
+                crimecat = "robbery"
+            elif "襲警" == crime or "偷拍" == crime or "傷人" == crime or "家暴" == crime or "家庭暴力" == crime or "酒後駕車" == crime or "酒駕" == crime or "毆打" == crime or "騷亂" == crime or "暴力" == crime or "縱火" == crime:
+                crimecat = "wounding and serious assault"
+            elif "毒品" == crime or "毒品買賣" == crime or "買賣毒品" == crime or "毒品走私" == crime or "走私毒品" == crime or "吸食毒品" == crime:
+                crimecat = "serious drug offenses"
+            elif "恐嚇" == crime:
+                crimecat = "criminal intimidation"
+            elif "強暴" == crime or "賣淫" == crime or "性交易" == crime or "強姦" == crime or "非禮" ==crime or "騷擾" == crime :
+                crimecat = "rape"
+            elif "偷竊" == crime or "盜竊" == crime or "闖空門" == crime:
+                crimecat = "all thefts"
+            elif "扒竊" == crime or "打荷包" == crime:
+                crimecat = "pickpocketing"
+            elif "失車" == crime or "劫車" == crime:
+                crimecat = "motor vehicles reported missing"
+            elif "勒索" == crime or "詐騙" == crime or "行騙" == crime or "物業騙案" == crime or "圍標案" == crime or "侵權"==crime:
+                crimecat = "deception"
             if 3 == 2:  # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
                 continue
             else:
@@ -76,7 +114,7 @@ for member in collection:
                                 pairs.write("\n")
                                 pairs.write('issue time :' + issue_time)
                                 pairs.write("\n")
-                                pairs.write('crime cato :')# + crimecat)
+                                pairs.write('crime cato :' + crimecat)
                                 pairs.write("\n")
                                 pairs.write('latitude   :' + str(lat))
                                 pairs.write("\n")
@@ -107,7 +145,7 @@ for member in collection:
                             pairs.write("\n")
                             pairs.write('issue time :' + issue_time)
                             pairs.write("\n")
-                            pairs.write('crime cato :')# + crimecat)
+                            pairs.write('crime cato :' + crimecat)
                             pairs.write("\n")
                             pairs.write('latitude   :' + str(lat))
                             pairs.write("\n")
@@ -121,10 +159,13 @@ for member in collection:
                             pairs.write("\n")
                             pairs.close()
                     break
+            # else:
+            #     pass
         break
     print(title)
     print(url)
     print()
+
 sys.stdout = orig_stdout
 f1.close()
 
@@ -133,23 +174,6 @@ print()
 print("$----> data extractor ending... #####")
 print("=============================")
 
-# //--->redirection completed
-
-
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-# ============
-#
-#
 # # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # # //---->loop through the crimelines list, until there's a match
 #

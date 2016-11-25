@@ -1,7 +1,7 @@
 crime      :侵權
 location   :將軍澳新寶城商場
 issue time :2016-11-25 18:54
-crime cato :
+crime cato :deception
 latitude   :22.3119357
 longitude  :114.2568776
 title      :「薈才教室」印侵權教材　家長：海關上門當日曾停課
