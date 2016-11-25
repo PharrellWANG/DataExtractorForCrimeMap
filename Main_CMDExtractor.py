@@ -1,7 +1,7 @@
 # title: data extractor for crime map #
 # starting...                         #
 # go!                                 #
-from bs4 import BeautifulSoup, SoupStrainer
+from bs4 import BeautifulSoup
 import urllib
 from urllib.request import Request, urlopen
 import sys
@@ -45,49 +45,82 @@ for member in collection:
     req2 = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     page2 = urlopen(req2).read()
     soup2 = BeautifulSoup(page2, 'lxml')  # single page
+    # contents = soup2.find_all('p')
+    # print(contents)
 
     for crime in crimelines:
         if crime not in title:
             continue
-        else:  # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
-            for location in localines:
-                if location not in title:  # todo: go check contents in url : 1. find news contents 2. if location not in contents, continue;else do the folowing things
-                    # contents = soup2.
-
-                    continue
-                else:  # location in title
-                    g = geocoder.google(location)
-                    print(g.latlng)
-                    print(type(g.latlng))
-                    lat = g.latlng[0]
-                    lng = g.latlng[1]
-                    time_twins = soup2.find_all("div", class_="date")
-                    for tag in time_twins:
-                        issue_time = tag.text.strip()[34:]
-                        # print(issue_time)
+        else:
+            if 3 == 2:  # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
+                continue
+            else:
+                for location in localines:
+                    if location not in title:
+                        contents = soup2.find_all('p')
+                        contents = str(contents)
+                        if location not in contents:
+                            continue
+                        else:
+                            g = geocoder.google(location)
+                            lat = g.latlng[0]
+                            lng = g.latlng[1]
+                            time_twins = soup2.find_all("div", class_="date")
+                            for tag in time_twins:
+                                issue_time = tag.text.strip()[34:]
+                                break
+                            with open("dele_CrimeLocationPairs.txt", "a") as pairs:
+                                pairs.write('crime      :' + crime)
+                                pairs.write("\n")
+                                pairs.write('location   :' + location)
+                                pairs.write("\n")
+                                pairs.write('issue time :' + issue_time)
+                                pairs.write("\n")
+                                pairs.write('crime cato :')# + crimecat)
+                                pairs.write("\n")
+                                pairs.write('latitude   :' + str(lat))
+                                pairs.write("\n")
+                                pairs.write('longitude  :' + str(lng))
+                                pairs.write("\n")
+                                pairs.write('title      :' + title)
+                                pairs.write("\n")
+                                pairs.write('URL        :' + url)
+                                pairs.write("\n")
+                                pairs.write("\n")
+                                pairs.write("\n")
+                                pairs.close()
                         break
 
-                    with open("dele_CrimeLocationPairs.txt", "a") as pairs:
-                        pairs.write('crime      :' + crime)
-                        pairs.write("\n")
-                        pairs.write('location   :' + location)
-                        pairs.write("\n")
-                        pairs.write('issue time :' + issue_time)
-                        pairs.write("\n")
-                        pairs.write('crime cato :' + "to do ...")
-                        pairs.write("\n")
-                        pairs.write('latitude   :' + str(lat))
-                        pairs.write("\n")
-                        pairs.write('longitude  :' + str(lng))
-                        pairs.write("\n")
-                        pairs.write('title      :' + title)
-                        pairs.write("\n")
-                        pairs.write('URL        :' + url)
-                        pairs.write("\n")
-                        pairs.write("\n")
-                        pairs.write("\n")
-                        pairs.close()
-                break
+                    else:  # location in title
+                        g = geocoder.google(location)
+                        lat = g.latlng[0]
+                        lng = g.latlng[1]
+                        time_twins = soup2.find_all("div", class_="date")
+                        for tag in time_twins:
+                            issue_time = tag.text.strip()[34:]
+                            break
+
+                        with open("dele_CrimeLocationPairs.txt", "a") as pairs:
+                            pairs.write('crime      :' + crime)
+                            pairs.write("\n")
+                            pairs.write('location   :' + location)
+                            pairs.write("\n")
+                            pairs.write('issue time :' + issue_time)
+                            pairs.write("\n")
+                            pairs.write('crime cato :')# + crimecat)
+                            pairs.write("\n")
+                            pairs.write('latitude   :' + str(lat))
+                            pairs.write("\n")
+                            pairs.write('longitude  :' + str(lng))
+                            pairs.write("\n")
+                            pairs.write('title      :' + title)
+                            pairs.write("\n")
+                            pairs.write('URL        :' + url)
+                            pairs.write("\n")
+                            pairs.write("\n")
+                            pairs.write("\n")
+                            pairs.close()
+                    break
         break
     print(title)
     print(url)
