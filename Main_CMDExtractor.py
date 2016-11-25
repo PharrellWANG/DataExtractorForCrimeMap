@@ -34,7 +34,6 @@ for member in collection:
     title = member.find("h3")
     title = title.string
     ref = member.find('a').get('href')
-
     # for reading url containing Traditional Chinese words
     refpart2 = ref[20:]
     s = refpart2
