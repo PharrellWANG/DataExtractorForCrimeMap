@@ -6,6 +6,8 @@ import urllib
 from urllib.request import Request, urlopen
 import sys
 import geocoder
+import mysql.connector
+
 
 from datetime import datetime
 

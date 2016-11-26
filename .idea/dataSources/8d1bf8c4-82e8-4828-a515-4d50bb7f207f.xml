@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.0">
+    <root id="1"/>
+    <schema id="2" parent="1" name="crimemap">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="dbls"/>
+    <schema id="4" parent="1" name="information_schema"/>
+    <schema id="5" parent="1" name="mysql"/>
+    <schema id="6" parent="1" name="performance_schema"/>
+    <schema id="7" parent="1" name="sys"/>
+    <table id="8" parent="2" name="crimemapinfo"/>
+    <column id="9" parent="8" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="10" parent="8" name="issuetime">
+      <Position>2</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="11" parent="8" name="location">
+      <Position>3</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="12" parent="8" name="crime">
+      <Position>4</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="13" parent="8" name="crimecat">
+      <Position>5</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="14" parent="8" name="latitude">
+      <Position>6</Position>
+      <DataType>double|0</DataType>
+    </column>
+    <column id="15" parent="8" name="longitude">
+      <Position>7</Position>
+      <DataType>double|0</DataType>
+    </column>
+    <column id="16" parent="8" name="title">
+      <Position>8</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="17" parent="8" name="URL">
+      <Position>9</Position>
+      <DataType>varchar(500)|0</DataType>
+    </column>
+    <index id="18" parent="8" name="issuetime">
+      <ColNames>issuetime
+location
+crime</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="19" parent="8" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <key id="20" parent="8" name="issuetime">
+      <ColNames>issuetime
+location
+crime</ColNames>
+      <UnderlyingIndexName>issuetime</UnderlyingIndexName>
+    </key>
+  </database-model>
+</dataSource>
