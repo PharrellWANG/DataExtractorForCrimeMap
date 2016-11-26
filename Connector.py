@@ -1,12 +1,12 @@
+# this is for testing whether the mysql.connector works or not.
 import mysql.connector
-
 from mysql.connector import errorcode
 
 config = {
     'user': 'root',
     'password': '123456',
     'host': '127.0.0.1',
-    'database': 'crimemap',
+    'database': 'employees',
     'raise_on_warnings': True,
 }
 

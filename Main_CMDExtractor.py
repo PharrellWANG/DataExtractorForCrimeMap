@@ -6,10 +6,17 @@ import urllib
 from urllib.request import Request, urlopen
 import sys
 import geocoder
-import mysql.connector
-
-
 from datetime import datetime
+# =========== connecting to mysql
+config = {
+    'user': 'root',
+    'password': '123456',
+    'host': '127.0.0.1',
+    'database': 'crimemap',
+    'raise_on_warnings': True,
+}
+cnx = mysql.connector.connect(**config)
+# =========== connecting to mysql
 
 start = datetime.now()
 print("=============================")
@@ -156,6 +163,8 @@ for member in collection:
 
 sys.stdout = orig_stdout
 f1.close()
+
+cnx.close()
 
 print("     #2. Time lapsed: " + str(datetime.now() - start))
 print()
