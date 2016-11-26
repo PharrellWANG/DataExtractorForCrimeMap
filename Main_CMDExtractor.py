@@ -18,6 +18,7 @@ with open('/Users/Pharrell_WANG/PycharmProjects/DataExtractorForCrimeMap/Lib1_Li
 with open('/Users/Pharrell_WANG/PycharmProjects/DataExtractorForCrimeMap/Lib2_ListOfLocation.txt', 'r+') as fl:
     localines = [line[:-1] for line in fl]  # for escaping the newline next to the location string
 
+
 req = Request('https://www.hk01.com/section/%E6%B8%AF%E8%81%9E',
               headers={'User-Agent': 'Mozilla/5.0'})
 page = urlopen(req).read()
@@ -36,8 +37,6 @@ sys.stdout = f1
 for member in collection:
     title = member.find("h3")
     title = title.string
-    assert isinstance(title, object)
-
     ref = member.find('a').get('href')
     # for reading url containing Traditional Chinese words
     refpart2 = ref[20:]
@@ -48,24 +47,11 @@ for member in collection:
     req2 = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     page2 = urlopen(req2).read()
     soup2 = BeautifulSoup(page2, 'lxml')  # single page
-    # contents = soup2.find_all('p')
-    # print(contents)
-    Flag = False
 
     for crime in crimelines:
         if crime not in title:
             continue
-        else: # crime in the title
-            # for single_title in atitle:
-            #     if single_title == title:
-            #         Flag = False
-            #         break
-            #     else:
-            #         Flag = True
-            # if Flag:
-
-            atitle.append(title)
-            atitle = list(set(atitle))  # handle duplications
+        else:  # crime in the title
             if "爆竊" == crime:
                 crimecat = "burglary"
             elif "攻擊" == crime or "持械攻擊" == crime:
@@ -80,7 +66,7 @@ for member in collection:
                 crimecat = "serious drug offenses"
             elif "恐嚇" == crime:
                 crimecat = "criminal intimidation"
-            elif "強暴" == crime or "賣淫" == crime or "性交易" == crime or "強姦" == crime or "非禮" ==crime or "騷擾" == crime :
+            elif "強暴" == crime or "賣淫" == crime or "性交易" == crime or "強姦" == crime or "非禮" ==crime or "騷擾" == crime or "性暴力" == crime:
                 crimecat = "rape"
             elif "偷竊" == crime or "盜竊" == crime or "闖空門" == crime:
                 crimecat = "all thefts"
