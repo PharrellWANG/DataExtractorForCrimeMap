@@ -1,5 +1,5 @@
 from __future__ import print_function
-
+from datetime import date, datetime, timedelta
 import mysql.connector
 from mysql.connector import errorcode
 
@@ -115,6 +115,7 @@ for name, ddl in iter(TABLES.items()):
             print(err.msg)
     else:
         print("OK")
+
 
 cursor.close()
 cnx.close()
