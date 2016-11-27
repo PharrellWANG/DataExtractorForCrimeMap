@@ -20,12 +20,9 @@ config = {
 }
 cnx = mysql.connector.connect(**config)
 cursor = cnx.cursor()
-
 add_rec = ("INSERT INTO crimemaprec "
            "(issuetime, location, crime, crimecat, latitude, longitude, title, URL) "
            "VALUES (%s, %s, %s, %s, %s, %s, %s, %s)")
-
-
 # =========== connecting to mysql
 
 start = datetime.now()
@@ -49,7 +46,7 @@ print("     #1. Number of news found: " + str(len(collection)))
 atitle = []
 
 orig_stdout = sys.stdout
-f1 = open('dele_TitleUrlPairs.txt', 'w')
+f1 = open('ZTitleUrlPairs.txt', 'w')
 sys.stdout = f1
 
 for member in collection:
@@ -61,7 +58,7 @@ for member in collection:
     refpart2 = ref[20:]
     s = refpart2
     s = urllib.parse.quote(s)
-    url = 'http://www.hk01.com/01%s' % (s)
+    url = 'http://www.hk01.com/01%s' % s
 
     req2 = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     page2 = urlopen(req2).read()
@@ -112,7 +109,7 @@ for member in collection:
                             for tag in time_twins:
                                 issue_time = tag.text.strip()[34:]
                                 break
-                            with open("dele_CrimeLocationPairs.txt", "a") as pairs:
+                            with open("ZPairs_allRecords_with_dup_indicated.txt", "a") as pairs:
                                 data_rec = list(data_rec)
                                 pairs.write('issue time :' + issue_time)
                                 data_rec.insert(0, str(issue_time))
@@ -137,18 +134,18 @@ for member in collection:
                                 pairs.write("\n")
                                 pairs.write('URL        :' + url)
                                 data_rec.insert(7, str(url))
+                                pairs.write("\n")
                                 data_rec = tuple(data_rec)
                                 try:
                                     cursor.execute(add_rec, data_rec)
                                     cnx.commit()
                                 except mysql.connector.errors.IntegrityError:
-                                    pass
+                                    pairs.write("Duplicated entry detected, I won't add it twice.")
                                 pairs.write("\n")
                                 pairs.write("\n")
                                 pairs.write("\n")
                                 pairs.close()
                         break
-
                     else:  # location in title
                         g = geocoder.google(location)
                         lat = g.latlng[0]
@@ -157,8 +154,7 @@ for member in collection:
                         for tag in time_twins:
                             issue_time = tag.text.strip()[34:]
                             break
-
-                        with open("dele_CrimeLocationPairs.txt", "a") as pairs:
+                        with open("ZPairs_allRecords_with_dup_indicated.txt", "a") as pairs:
                             data_rec = list(data_rec)
                             pairs.write('issue time :' + issue_time)
                             data_rec.insert(0, str(issue_time))
@@ -183,25 +179,18 @@ for member in collection:
                             pairs.write("\n")
                             pairs.write('URL        :' + url)
                             data_rec.insert(7, str(url))
+                            pairs.write("\n")
                             data_rec = tuple(data_rec)
-
-                            # cursor.execute(add_rec, data_rec)
-                            # # Make sure data is committed to the database
-                            # cnx.commit()
-
                             try:
                                 cursor.execute(add_rec, data_rec)
                                 cnx.commit()
                             except mysql.connector.errors.IntegrityError:
-                                pass
-
+                                pairs.write("Duplicated entry detected, I won't add it twice.")
                             pairs.write("\n")
                             pairs.write("\n")
                             pairs.write("\n")
                             pairs.close()
                     break
-                    # else:
-                    #     pass
         break
     print(title)
     print(url)

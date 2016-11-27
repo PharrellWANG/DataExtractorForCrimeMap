@@ -6,8 +6,10 @@
       <w>crimelines</w>
       <w>crimemap</w>
       <w>crimemapinfo</w>
+      <w>crimemaprec</w>
       <w>dele</w>
       <w>geocoding</w>
+      <w>issuetime</w>
       <w>listcrime</w>
       <w>listlocation</w>
       <w>localines</w>
