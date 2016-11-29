@@ -92,7 +92,7 @@ for member in collection:
                 crimecat = "motor vehicles reported missing"
             elif "勒索" == crime or "詐騙" == crime or "行騙" == crime or "物業騙案" == crime or "圍標案" == crime or "侵權" == crime:
                 crimecat = "deception"
-            if 3 == 2:  # todo---->  loop the titles in DB, compare to the current title, if duplicated, "continue";else go go go.
+            if 3 == 2:
                 continue
             else:
                 for location in localines:
