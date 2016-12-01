@@ -28,7 +28,7 @@ def tick():
     print(">>>.....................")
 
     config = {
-        'user': 'root',
+        'user': 'pharrell',
         'password': '123456',
         'host': '127.0.0.1',
         'database': 'crimemap',
