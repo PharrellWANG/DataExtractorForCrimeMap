@@ -16,26 +16,31 @@ import mysql.connector
 
 interval = 30
 
-# =========== connecting to mysql
-config = {
-    'user': 'root',
-    'password': '123456',
-    'host': '127.0.0.1',
-    'database': 'crimemap',
-    'raise_on_warnings': True,
-}
-cnx = mysql.connector.connect(**config)
-cursor = cnx.cursor()
-add_rec = ("INSERT INTO crimemaprec "
-           "(issuetime, location, crime, crimecat, latitude, longitude, title, URL) "
-           "VALUES (%s, %s, %s, %s, %s, %s, %s, %s)")
-
-
-# =========== connecting to mysql
-
 
 def tick():
     """I JUST ADD THIS SENTENCE FOR ELIMINATE A GREY WAVE LINE."""
+    # =========== connecting to mysql
+    print()
+    print()
+    print()
+    print()
+    print(">>>Database connecting on progress...")
+    print(">>>.....................")
+
+    config = {
+        'user': 'root',
+        'password': '123456',
+        'host': '127.0.0.1',
+        'database': 'crimemap',
+        'raise_on_warnings': True,
+    }
+    cnx = mysql.connector.connect(**config)
+    cursor = cnx.cursor()
+    add_rec = ("INSERT INTO crimemaprec "
+               "(issuetime, location, crime, crimecat, latitude, longitude, title, URL) "
+               "VALUES (%s, %s, %s, %s, %s, %s, %s, %s)")
+    print(">>>Database connection is successful.")
+    # =========== connecting to mysql
     start = datetime.now()
     print("=============================")
     print('$>>>>> Starting time:    %s' % datetime.now())
@@ -81,7 +86,7 @@ def tick():
             else:  # crime in the title
                 if "爆竊" == crime:
                     crimecat = "burglary"
-                elif "攻擊" == crime or "持械攻擊" == crime:
+                elif "攻擊" == crime or "持械攻擊" == crime or "持械大混戰" == crime or "刑毀" == crime:
                     crimecat = "violent crime"
                 elif "兇殺" == crime or "謀殺" == crime or "殺人" == crime:
                     crimecat = "homicide"
@@ -225,6 +230,12 @@ def tick():
     print('$>>>>> Ending time:  %s' % datetime.now())
     print("\n")
 
+    print(">>>Database is shutting down...")
+    print(">>>.....................")
+    cursor.close()
+    cnx.close()
+    print(">>>Database is successfully shut down.")
+
 print('Crawler execution interval(s): %s' % interval)
 tick()
 
@@ -242,5 +253,4 @@ if __name__ == '__main__':
         # Not strictly necessary if daemonic mode is enabled but should be done if possible
         scheduler.shutdown()
 
-cursor.close()
-cnx.close()
+
