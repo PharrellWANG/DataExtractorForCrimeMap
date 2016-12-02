@@ -14,7 +14,7 @@ import geocoder
 from datetime import datetime
 import mysql.connector
 
-interval = 30
+interval = 1800
 
 
 def tick():
@@ -131,8 +131,11 @@ def tick():
                                 continue
                             else:
                                 g = geocoder.google(location)
-                                lat = g.latlng[0]
-                                lng = g.latlng[1]
+                                try:
+                                    lat = g.latlng[0]
+                                    lng = g.latlng[1]
+                                except IndexError:
+                                    break
                                 time_twins = soup2.find_all("div", class_="date")
                                 for tag in time_twins:
                                     issue_time = tag.text.strip()[34:]

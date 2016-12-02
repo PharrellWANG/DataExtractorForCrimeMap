@@ -13,8 +13,9 @@ import sys
 import geocoder
 from datetime import datetime
 import mysql.connector
+# import subprocess
 
-interval = 30
+interval = 1800
 
 
 def tick():
@@ -129,8 +130,11 @@ def tick():
                                 continue
                             else:
                                 g = geocoder.google(location)
-                                lat = g.latlng[0]
-                                lng = g.latlng[1]
+                                try:
+                                    lat = g.latlng[0]
+                                    lng = g.latlng[1]
+                                except IndexError:
+                                    break
                                 time_twins = soup2.find_all("div", class_="date")
                                 for tag in time_twins:
                                     issue_time = tag.text.strip()[34:]
@@ -235,6 +239,7 @@ def tick():
     cursor.close()
     cnx.close()
     print(">>>Database is successfully shut down.")
+
 
 print('Crawler execution interval(s): %s' % interval)
 tick()
