@@ -50,10 +50,10 @@ def tick():
     print('$>>>>> Starting time:    %s' % datetime.now())
     print("$----> data extractor starting... #####")
 
-    with open('C:\\Users\\Administrator\\PycharmProjects\\DataExtractorForCrimeMap\\Lib1_ListOfCrime.txt',
+    with open('C:\\Users\\Administrator\\PycharmProjects\\CrimeMapCrawler\\Lib1_ListOfCrime.txt',
               'r+', encoding="utf8") as fc:
         crimelines = [line[:-1] for line in fc]  # for escaping the newline next to the location string
-    with open('C:\\Users\Administrator\\PycharmProjects\\DataExtractorForCrimeMap\\Lib2_ListOfLocation.txt',
+    with open('C:\\Users\Administrator\\PycharmProjects\\CrimeMapCrawler\\Lib2_ListOfLocation.txt',
               'r+', encoding="utf8") as fl:
         localines = [line[:-1] for line in fl]  # for escaping the newline next to the location string
 
@@ -139,7 +139,7 @@ def tick():
                                     lat = g.latlng[0]
                                     lng = g.latlng[1]
                                 except IndexError:
-                                    break
+                                    continue
                                 time_twins = soup2.find_all("div", class_="date")
                                 for tag in time_twins:
                                     issue_time = tag.text.strip()[34:]
@@ -226,6 +226,7 @@ def tick():
                                 pairs.write("\n")
                                 pairs.close()
                         break
+
             break
         print(title)
         print(url)
