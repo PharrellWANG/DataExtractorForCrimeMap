@@ -1,21 +1,25 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """ title: data extractor for crime map """
 
 from __future__ import print_function
-import time
+
 import os
-
-from apscheduler.schedulers.background import BackgroundScheduler
-
-from bs4 import BeautifulSoup
-import urllib
-from urllib.request import Request, urlopen
 import sys
-import geocoder
+import time
+import urllib
 from datetime import datetime
+from urllib.request import Request, urlopen
+
+import geocoder
 import mysql.connector
+from apscheduler.schedulers.background import BackgroundScheduler
+from bs4 import BeautifulSoup
+
 # import subprocess
 
-interval = 1800
+interval = 20
 
 
 def tick():
@@ -30,7 +34,7 @@ def tick():
 
     config = {
         'user': 'root',
-        'password': '123456',
+        'password': 'bitnami',
         'host': '127.0.0.1',
         'database': 'crimemap',
         'raise_on_warnings': True,
@@ -59,6 +63,7 @@ def tick():
     soup = BeautifulSoup(page, 'lxml')
 
     collection = soup.find_all("div", class_="blog_listing__item")
+
     print()
     print("     #1. Number of news found: " + str(len(collection)))
 
@@ -72,10 +77,10 @@ def tick():
         title = title.string
         ref = member.find('a').get('href')
         # for reading url containing Traditional Chinese words
-        refpart2 = ref[20:]
+        refpart2 = ref[21:]
         s = refpart2
         s = urllib.parse.quote(s)
-        url = 'http://www.hk01.com/01%s' % s
+        url = 'https://www.hk01.com/%s' % s
 
         req2 = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         page2 = urlopen(req2).read()
@@ -87,7 +92,7 @@ def tick():
             else:  # crime in the title
                 if "爆竊" == crime:
                     crimecat = "burglary"
-                elif "攻擊" == crime or "持械攻擊" == crime or "持械大混戰" == crime or "刑毀" == crime:
+                elif "攻擊" == crime or "持械攻擊" == crime or "持械大混戰" == crime or "刑毀" == crime or "射爆" == crime:
                     crimecat = "violent crime"
                 elif "兇殺" == crime or "謀殺" == crime or "殺人" == crime:
                     crimecat = "homicide"
@@ -124,7 +129,7 @@ def tick():
                 else:
                     for location in localines:
                         if location not in title:
-                            contents = soup2.find_all('p')
+                            contents = member.find(class_="blog_listing__item__content__caption")
                             contents = str(contents)
                             if location not in contents:
                                 continue
@@ -240,7 +245,8 @@ def tick():
     cnx.close()
     print(">>>Database is successfully shut down.")
 
-
+print()
+print()
 print('Crawler execution interval(s): %s' % interval)
 tick()
 
@@ -257,5 +263,3 @@ if __name__ == '__main__':
     except (KeyboardInterrupt, SystemExit):
         # Not strictly necessary if daemonic mode is enabled but should be done if possible
         scheduler.shutdown()
-
-

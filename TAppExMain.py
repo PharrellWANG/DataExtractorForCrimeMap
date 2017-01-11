@@ -1,10 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # title: data extractor for crime map #
 # starting...                         #
 # go!                                 #
 from __future__ import print_function
 from bs4 import BeautifulSoup
 import urllib
-from urllib.request import Request, urlopen
+from urllib.request import urlopen, Request
 import sys
 import geocoder
 from datetime import datetime
@@ -13,7 +15,7 @@ import mysql.connector
 # =========== connecting to mysql
 config = {
     'user': 'root',
-    'password': '123456',
+    'password': 'bitnami',
     'host': '127.0.0.1',
     'database': 'crimemap',
     'raise_on_warnings': True,
@@ -41,6 +43,19 @@ page = urlopen(req).read()
 soup = BeautifulSoup(page, 'lxml')
 
 collection = soup.find_all("div", class_="blog_listing__item")
+
+member = collection[1]
+data_rec = ()
+title = member.find("h3")
+title = title.string
+ref = member.find('a').get('href')
+# for reading url containing Traditional Chinese words
+refpart2 = ref[20:]
+s = refpart2
+s = urllib.parse.quote(s)
+url = 'http://www.hk01.com/01%s' % s
+print(url)
+
 print()
 print("     #1. Number of news found: " + str(len(collection)))
 atitle = []

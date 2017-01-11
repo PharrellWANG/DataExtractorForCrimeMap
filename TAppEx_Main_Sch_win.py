@@ -1,3 +1,7 @@
+
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """ title: data extractor for crime map """
 
 from __future__ import print_function
@@ -73,10 +77,10 @@ def tick():
         title = title.string
         ref = member.find('a').get('href')
         # for reading url containing Traditional Chinese words
-        refpart2 = ref[20:]
+        refpart2 = ref[21:]
         s = refpart2
         s = urllib.parse.quote(s)
-        url = 'http://www.hk01.com/01%s' % s
+        url = 'https://www.hk01.com/%s' % s
 
         req2 = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         page2 = urlopen(req2).read()
@@ -88,7 +92,7 @@ def tick():
             else:  # crime in the title
                 if "爆竊" == crime:
                     crimecat = "burglary"
-                elif "攻擊" == crime or "持械攻擊" == crime or "持械大混戰" == crime or "刑毀" == crime:
+                elif "攻擊" == crime or "持械攻擊" == crime or "持械大混戰" == crime or "刑毀" == crime or "射爆" == crime:
                     crimecat = "violent crime"
                 elif "兇殺" == crime or "謀殺" == crime or "殺人" == crime:
                     crimecat = "homicide"
@@ -125,7 +129,7 @@ def tick():
                 else:
                     for location in localines:
                         if location not in title:
-                            contents = soup2.find_all('p')
+                            contents = member.find(class_="blog_listing__item__content__caption")
                             contents = str(contents)
                             if location not in contents:
                                 continue

@@ -26,6 +26,11 @@ Step7: rerun that program in Alex’s machine.
 ======For updating the deployment on Alex's machine=====
 
 
-Last Updated:
+make use of github to update on alex's machine
+
+Updated:
 on 28/Nov/2016
+
+Last Updated:
+on 11/Jan/2017
 by Pharrell
