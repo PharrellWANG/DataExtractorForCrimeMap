@@ -90,6 +90,7 @@ def tick():
             if crime not in title:
                 continue
             else:  # crime in the title
+                crimecat = "--"
                 if "爆竊" == crime:
                     crimecat = "burglary"
                 elif "攻擊" == crime or "持械攻擊" == crime or "持械大混戰" == crime or "刑毀" == crime or "射爆" == crime:

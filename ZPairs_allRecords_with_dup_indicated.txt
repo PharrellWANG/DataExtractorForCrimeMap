@@ -42,3 +42,1557 @@ URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65015/-%25E4%25BA%25A4%25E5%
 Duplicated entry detected, I won't add it twice.
 
 
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+
+
+
+issue time :2017-01-12 07:24
+location   :漆咸道南
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3022617
+longitude  :114.1769251
+title      :尖沙嘴男子遇查發難襲警　「頭槌」撞警員左肩被制服
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65229/%25E5%25B0%2596%25E6%25B2%2599%25E5%2598%25B4%25E7%2594%25B7%25E5%25AD%2590%25E9%2581%2587%25E6%259F%25A5%25E7%2599%25BC%25E9%259B%25A3%25E8%25A5%25B2%25E8%25AD%25A6-%25E9%25A0%25AD%25E6%25A7%258C-%25E6%2592%259E%25E8%25AD%25A6%25E5%2593%25A1%25E5%25B7%25A6%25E8%2582%25A9%25E8%25A2%25AB%25E5%2588%25B6%25E6%259C%258D
+
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 07:24
+location   :漆咸道南
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3022617
+longitude  :114.1769251
+title      :尖沙嘴男子遇查發難襲警　「頭槌」撞警員左肩被制服
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65229/%25E5%25B0%2596%25E6%25B2%2599%25E5%2598%25B4%25E7%2594%25B7%25E5%25AD%2590%25E9%2581%2587%25E6%259F%25A5%25E7%2599%25BC%25E9%259B%25A3%25E8%25A5%25B2%25E8%25AD%25A6-%25E9%25A0%25AD%25E6%25A7%258C-%25E6%2592%259E%25E8%25AD%25A6%25E5%2593%25A1%25E5%25B7%25A6%25E8%2582%25A9%25E8%25A2%25AB%25E5%2588%25B6%25E6%259C%258D
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 07:24
+location   :漆咸道南
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3022617
+longitude  :114.1769251
+title      :尖沙嘴男子遇查發難襲警　「頭槌」撞警員左肩被制服
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65229/%25E5%25B0%2596%25E6%25B2%2599%25E5%2598%25B4%25E7%2594%25B7%25E5%25AD%2590%25E9%2581%2587%25E6%259F%25A5%25E7%2599%25BC%25E9%259B%25A3%25E8%25A5%25B2%25E8%25AD%25A6-%25E9%25A0%25AD%25E6%25A7%258C-%25E6%2592%259E%25E8%25AD%25A6%25E5%2593%25A1%25E5%25B7%25A6%25E8%2582%25A9%25E8%25A2%25AB%25E5%2588%25B6%25E6%259C%258D
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 07:24
+location   :漆咸道南
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3092206
+longitude  :114.1838388
+title      :尖沙嘴男子遇查發難襲警　「頭槌」撞警員左肩被制服
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65229/%25E5%25B0%2596%25E6%25B2%2599%25E5%2598%25B4%25E7%2594%25B7%25E5%25AD%2590%25E9%2581%2587%25E6%259F%25A5%25E7%2599%25BC%25E9%259B%25A3%25E8%25A5%25B2%25E8%25AD%25A6-%25E9%25A0%25AD%25E6%25A7%258C-%25E6%2592%259E%25E8%25AD%25A6%25E5%2593%25A1%25E5%25B7%25A6%25E8%2582%25A9%25E8%25A2%25AB%25E5%2588%25B6%25E6%259C%258D
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 07:24
+location   :漆咸道南
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3022617
+longitude  :114.1769251
+title      :尖沙嘴男子襲警　頭頂警員左肩被制服
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65229/%25E5%25B0%2596%25E6%25B2%2599%25E5%2598%25B4%25E7%2594%25B7%25E5%25AD%2590%25E8%25A5%25B2%25E8%25AD%25A6-%25E9%25A0%25AD%25E9%25A0%2582%25E8%25AD%25A6%25E5%2593%25A1%25E5%25B7%25A6%25E8%2582%25A9%25E8%25A2%25AB%25E5%2588%25B6%25E6%259C%258D
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 07:24
+location   :漆咸道南
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3022617
+longitude  :114.1769251
+title      :【頭槌襲警】尖沙嘴可疑男遇查即發難　撞警左肩被制服
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65229/-%25E9%25A0%25AD%25E6%25A7%258C%25E8%25A5%25B2%25E8%25AD%25A6-%25E5%25B0%2596%25E6%25B2%2599%25E5%2598%25B4%25E5%258F%25AF%25E7%2596%2591%25E7%2594%25B7%25E9%2581%2587%25E6%259F%25A5%25E5%258D%25B3%25E7%2599%25BC%25E9%259B%25A3-%25E6%2592%259E%25E8%25AD%25A6%25E5%25B7%25A6%25E8%2582%25A9%25E8%25A2%25AB%25E5%2588%25B6%25E6%259C%258D
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【暴力家庭】16歲女遭朋友一家三口禁錮毆打　偷向父致電逃出生天
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65233/-%25E6%259A%25B4%25E5%258A%259B%25E5%25AE%25B6%25E5%25BA%25AD-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E6%259C%258B%25E5%258F%258B%25E4%25B8%2580%25E5%25AE%25B6%25E4%25B8%2589%25E5%258F%25A3%25E7%25A6%2581%25E9%258C%25AE%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E5%2590%2591%25E7%2588%25B6%25E8%2587%25B4%25E9%259B%25BB%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-12 08:51
+location   :銅鑼灣
+crime      :毆打
+crime cato :wounding and serious assault
+latitude   :22.2859787
+longitude  :114.1914919
+title      :【禁錮少女】16歲女遭友人一家禁室毆打　偷致電父逃出生天
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65233/-%25E7%25A6%2581%25E9%258C%25AE%25E5%25B0%2591%25E5%25A5%25B3-16%25E6%25AD%25B2%25E5%25A5%25B3%25E9%2581%25AD%25E5%258F%258B%25E4%25BA%25BA%25E4%25B8%2580%25E5%25AE%25B6%25E7%25A6%2581%25E5%25AE%25A4%25E6%25AF%2586%25E6%2589%2593-%25E5%2581%25B7%25E8%2587%25B4%25E9%259B%25BB%25E7%2588%25B6%25E9%2580%2583%25E5%2587%25BA%25E7%2594%259F%25E5%25A4%25A9
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 21:29
+location   :荃灣
+crime      :襲警
+crime cato :wounding and serious assault
+latitude   :22.3699122
+longitude  :114.1144306
+title      :屯門美樂花園追數不遂演變襲警案       警拘兩人
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65655/%25E5%25B1%25AF%25E9%2596%2580%25E7%25BE%258E%25E6%25A8%2582%25E8%258A%25B1%25E5%259C%2592%25E8%25BF%25BD%25E6%2595%25B8%25E4%25B8%258D%25E9%2581%2582%25E6%25BC%2594%25E8%25AE%258A%25E8%25A5%25B2%25E8%25AD%25A6%25E6%25A1%2588-%25E8%25AD%25A6%25E6%258B%2598%25E5%2585%25A9%25E4%25BA%25BA
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :搶劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :昂船洲大橋企圖搶劫的士司機　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E4%25BC%2581%25E5%259C%2596%25E6%2590%25B6%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲青年圖劫的士司機　昂船洲大橋跳車逃走被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E9%259D%2592%25E5%25B9%25B4%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%258F%25B8%25E6%25A9%259F-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E9%2580%2583%25E8%25B5%25B0%25E8%25A2%25AB%25E6%258D%2595
+
+
+
+issue time :2017-01-13 23:45
+location   :灣仔
+crime      :毒品
+crime cato :serious drug offenses
+latitude   :22.276022
+longitude  :114.1751471
+title      :警銅鑼灣搗毒品包裝分銷中心　檢5萬元毒品拘一男
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65685/%25E8%25AD%25A6%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E6%2590%2597%25E6%25AF%2592%25E5%2593%2581%25E5%258C%2585%25E8%25A3%259D%25E5%2588%2586%25E9%258A%25B7%25E4%25B8%25AD%25E5%25BF%2583-%25E6%25AA%25A25%25E8%2590%25AC%25E5%2585%2583%25E6%25AF%2592%25E5%2593%2581%25E6%258B%2598%25E4%25B8%2580%25E7%2594%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 05:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲仔圖劫的士哥　昂船洲大橋跳車被捕　司機淡定煞車力保不失
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E4%25BB%2594%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%2593%25A5-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E8%25A2%25AB%25E6%258D%2595-%25E5%258F%25B8%25E6%25A9%259F%25E6%25B7%25A1%25E5%25AE%259A%25E7%2585%259E%25E8%25BB%258A%25E5%258A%259B%25E4%25BF%259D%25E4%25B8%258D%25E5%25A4%25B1
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲仔圖劫的士哥　昂船洲大橋跳車被捕　司機淡定煞車力保不失
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E4%25BB%2594%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%2593%25A5-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E8%25A2%25AB%25E6%258D%2595-%25E5%258F%25B8%25E6%25A9%259F%25E6%25B7%25A1%25E5%25AE%259A%25E7%2585%259E%25E8%25BB%258A%25E5%258A%259B%25E4%25BF%259D%25E4%25B8%258D%25E5%25A4%25B1
+
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲仔圖劫的士哥　昂船洲大橋跳車被捕　司機淡定煞車力保不失
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E4%25BB%2594%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%2593%25A5-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E8%25A2%25AB%25E6%258D%2595-%25E5%258F%25B8%25E6%25A9%259F%25E6%25B7%25A1%25E5%25AE%259A%25E7%2585%259E%25E8%25BB%258A%25E5%258A%259B%25E4%25BF%259D%25E4%25B8%258D%25E5%25A4%25B1
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲仔圖劫的士哥　昂船洲大橋跳車被捕　司機淡定煞車力保不失
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E4%25BB%2594%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%2593%25A5-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E8%25A2%25AB%25E6%258D%2595-%25E5%258F%25B8%25E6%25A9%259F%25E6%25B7%25A1%25E5%25AE%259A%25E7%2585%259E%25E8%25BB%258A%25E5%258A%259B%25E4%25BF%259D%25E4%25B8%258D%25E5%25A4%25B1
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲仔圖劫的士哥　昂船洲大橋跳車被捕　司機淡定煞車力保不失
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E4%25BB%2594%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%2593%25A5-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E8%25A2%25AB%25E6%258D%2595-%25E5%258F%25B8%25E6%25A9%259F%25E6%25B7%25A1%25E5%25AE%259A%25E7%2585%259E%25E8%25BB%258A%25E5%258A%259B%25E4%25BF%259D%25E4%25B8%258D%25E5%25A4%25B1
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:24
+location   :鰂魚涌
+crime      :劫
+crime cato :robbery
+latitude   :22.2827206
+longitude  :114.2123009
+title      :19歲仔圖劫的士哥　昂船洲大橋跳車被捕　司機淡定煞車力保不失
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65689/19%25E6%25AD%25B2%25E4%25BB%2594%25E5%259C%2596%25E5%258A%25AB%25E7%259A%2584%25E5%25A3%25AB%25E5%2593%25A5-%25E6%2598%2582%25E8%2588%25B9%25E6%25B4%25B2%25E5%25A4%25A7%25E6%25A9%258B%25E8%25B7%25B3%25E8%25BB%258A%25E8%25A2%25AB%25E6%258D%2595-%25E5%258F%25B8%25E6%25A9%259F%25E6%25B7%25A1%25E5%25AE%259A%25E7%2585%259E%25E8%25BB%258A%25E5%258A%259B%25E4%25BF%259D%25E4%25B8%258D%25E5%25A4%25B1
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 09:34
+location   :旺角
+crime      :酒駕
+crime cato :wounding and serious assault
+latitude   :22.3203648
+longitude  :114.169773
+title      :冷雨夜旺角四車相撞　P牌仔涉酒駕被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65694/%25E5%2586%25B7%25E9%259B%25A8%25E5%25A4%259C%25E6%2597%25BA%25E8%25A7%2592%25E5%259B%259B%25E8%25BB%258A%25E7%259B%25B8%25E6%2592%259E-P%25E7%2589%258C%25E4%25BB%2594%25E6%25B6%2589%25E9%2585%2592%25E9%25A7%2595%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 08:00
+location   :西貢
+crime      :暴力
+crime cato :wounding and serious assault
+latitude   :22.383689
+longitude  :114.2707867
+title      :【大盜傳奇】刀匪倚仗暴力不顧風險　硬闖獨立屋搜掠
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65607/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2588%2580%25E5%258C%25AA%25E5%2580%259A%25E4%25BB%2597%25E6%259A%25B4%25E5%258A%259B%25E4%25B8%258D%25E9%25A1%25A7%25E9%25A2%25A8%25E9%259A%25AA-%25E7%25A1%25AC%25E9%2597%2596%25E7%258D%25A8%25E7%25AB%258B%25E5%25B1%258B%25E6%2590%259C%25E6%258E%25A0
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-14 07:57
+location   :中環
+crime      :爆竊
+crime cato :burglary
+latitude   :22.2799907
+longitude  :114.1587983
+title      :【大盜傳奇】唐樓鑽金庫　闖日爆名錶　爆竊專家難敵歲月神偷
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65493/-%25E5%25A4%25A7%25E7%259B%259C%25E5%2582%25B3%25E5%25A5%2587-%25E5%2594%2590%25E6%25A8%2593%25E9%2591%25BD%25E9%2587%2591%25E5%25BA%25AB-%25E9%2597%2596%25E6%2597%25A5%25E7%2588%2586%25E5%2590%258D%25E9%258C%25B6-%25E7%2588%2586%25E7%25AB%258A%25E5%25B0%2588%25E5%25AE%25B6%25E9%259B%25A3%25E6%2595%25B5%25E6%25AD%25B2%25E6%259C%2588%25E7%25A5%259E%25E5%2581%25B7
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天AEON商場遭爆竊　男子被捕
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9AEON%25E5%2595%2586%25E5%25A0%25B4%25E9%2581%25AD%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E8%25A2%25AB%25E6%258D%2595
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 04:11
+location   :荔枝角
+crime      :爆竊
+crime cato :burglary
+latitude   :22.3377817
+longitude  :114.1359272
+title      :碧海藍天商場食肆被爆竊　男子斷正　搜出逾3萬元現金餅券
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65813/%25E7%25A2%25A7%25E6%25B5%25B7%25E8%2597%258D%25E5%25A4%25A9%25E5%2595%2586%25E5%25A0%25B4%25E9%25A3%259F%25E8%2582%2586%25E8%25A2%25AB%25E7%2588%2586%25E7%25AB%258A-%25E7%2594%25B7%25E5%25AD%2590%25E6%2596%25B7%25E6%25AD%25A3-%25E6%2590%259C%25E5%2587%25BA%25E9%2580%25BE3%25E8%2590%25AC%25E5%2585%2583%25E7%258F%25BE%25E9%2587%2591%25E9%25A4%2585%25E5%2588%25B8
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 16:53
+location   :灣仔
+crime      :超速
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-15 22:45
+location   :九龍
+crime      :非禮
+crime cato :rape
+latitude   :22.3185673
+longitude  :114.1796057
+title      :九龍醫院精神科再揭風化案　女醫生被男病人非禮
+URL        :https://www.hk01.com/%E6%B8%AF%E8%81%9E/65923/%25E4%25B9%259D%25E9%25BE%258D%25E9%2586%25AB%25E9%2599%25A2%25E7%25B2%25BE%25E7%25A5%259E%25E7%25A7%2591%25E5%2586%258D%25E6%258F%25AD%25E9%25A2%25A8%25E5%258C%2596%25E6%25A1%2588-%25E5%25A5%25B3%25E9%2586%25AB%25E7%2594%259F%25E8%25A2%25AB%25E7%2594%25B7%25E7%2597%2585%25E4%25BA%25BA%25E9%259D%259E%25E7%25A6%25AE
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-16 06:11
+location   :大埔
+crime      :縱火
+crime cato :wounding and serious assault
+latitude   :22.4423218
+longitude  :114.1655064
+title      :大埔村屋地盤吊臂車遭割喉漏油　列縱火案處理
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65934/%25E5%25A4%25A7%25E5%259F%2594%25E6%259D%2591%25E5%25B1%258B%25E5%259C%25B0%25E7%259B%25A4%25E5%2590%258A%25E8%2587%2582%25E8%25BB%258A%25E9%2581%25AD%25E5%2589%25B2%25E5%2596%2589%25E6%25BC%258F%25E6%25B2%25B9-%25E5%2588%2597%25E7%25B8%25B1%25E7%2581%25AB%25E6%25A1%2588%25E8%2599%2595%25E7%2590%2586
+
+
+
+issue time :2017-01-16 06:11
+location   :大埔
+crime      :縱火
+crime cato :wounding and serious assault
+latitude   :22.4423218
+longitude  :114.1655064
+title      :大埔村屋地盤吊臂車遭割喉漏油　列縱火案處理
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65934/%25E5%25A4%25A7%25E5%259F%2594%25E6%259D%2591%25E5%25B1%258B%25E5%259C%25B0%25E7%259B%25A4%25E5%2590%258A%25E8%2587%2582%25E8%25BB%258A%25E9%2581%25AD%25E5%2589%25B2%25E5%2596%2589%25E6%25BC%258F%25E6%25B2%25B9-%25E5%2588%2597%25E7%25B8%25B1%25E7%2581%25AB%25E6%25A1%2588%25E8%2599%2595%25E7%2590%2586
+Duplicated entry detected, I won't add it twice.
+
+
+issue time :2017-01-16 06:11
+location   :大埔
+crime      :縱火
+crime cato :wounding and serious assault
+latitude   :22.4423282
+longitude  :114.165521
+title      :大埔村屋地盤吊臂車遭割喉漏油　列縱火案處理
+URL        :https://www.hk01.com/%E7%BD%AA%E6%A1%88/65934/%25E5%25A4%25A7%25E5%259F%2594%25E6%259D%2591%25E5%25B1%258B%25E5%259C%25B0%25E7%259B%25A4%25E5%2590%258A%25E8%2587%2582%25E8%25BB%258A%25E9%2581%25AD%25E5%2589%25B2%25E5%2596%2589%25E6%25BC%258F%25E6%25B2%25B9-%25E5%2588%2597%25E7%25B8%25B1%25E7%2581%25AB%25E6%25A1%2588%25E8%2599%2595%25E7%2590%2586
+Duplicated entry detected, I won't add it twice.
+
+
